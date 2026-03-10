@@ -1,0 +1,1001 @@
+Observation ID,Common Name,Scientific Name,Genus,Observed Length (m),Observed Weight (kg),Age Class,Sex,Country/Region,Habitat Type,Conservation Status
+2,American Crocodile,Crocodylus acutus,Crocodylus,4.09,334.5,Adult,Male,Venezuela,Mangroves,Vulnerable
+14,American Crocodile,Crocodylus acutus,Crocodylus,3.65,217.7,Adult,Male,Mexico,Mangroves,Vulnerable
+32,American Crocodile,Crocodylus acutus,Crocodylus,4.11,324.4,Adult,Female,USA (Florida),Mangroves,Vulnerable
+47,American Crocodile,Crocodylus acutus,Crocodylus,3.04,155.0,Adult,Unknown,Colombia,Estuaries,Vulnerable
+51,American Crocodile,Crocodylus acutus,Crocodylus,3.57,229.3,Adult,Female,USA (Florida),Mangroves,Vulnerable
+69,American Crocodile,Crocodylus acutus,Crocodylus,3.66,262.6,Adult,Unknown,Venezuela,Brackish Rivers,Vulnerable
+89,American Crocodile,Crocodylus acutus,Crocodylus,2.76,152.5,Adult,Unknown,Costa Rica,Coastal Lagoons,Vulnerable
+93,American Crocodile,Crocodylus acutus,Crocodylus,3.88,273.6,Adult,Unknown,Mexico,Coastal Lagoons,Vulnerable
+126,American Crocodile,Crocodylus acutus,Crocodylus,3.04,190.0,Adult,Male,Costa Rica,Coastal Lagoons,Vulnerable
+129,American Crocodile,Crocodylus acutus,Crocodylus,3.32,213.1,Adult,Unknown,Mexico,Coastal Lagoons,Vulnerable
+170,American Crocodile,Crocodylus acutus,Crocodylus,0.36,70.2,Hatchling,Female,Costa Rica,Coastal Lagoons,Vulnerable
+174,American Crocodile,Crocodylus acutus,Crocodylus,3.75,259.1,Subadult,Unknown,USA (Florida),Brackish Rivers,Vulnerable
+176,American Crocodile,Crocodylus acutus,Crocodylus,1.69,90.7,Juvenile,Female,Mexico,Coastal Lagoons,Vulnerable
+200,American Crocodile,Crocodylus acutus,Crocodylus,3.88,266.2,Adult,Male,Colombia,Mangroves,Vulnerable
+214,American Crocodile,Crocodylus acutus,Crocodylus,2.44,113.3,Juvenile,Male,Mexico,Coastal Lagoons,Vulnerable
+222,American Crocodile,Crocodylus acutus,Crocodylus,2.77,130.0,Adult,Female,Mexico,Estuaries,Vulnerable
+225,American Crocodile,Crocodylus acutus,Crocodylus,1.92,107.4,Juvenile,Female,Mexico,Brackish Rivers,Vulnerable
+238,American Crocodile,Crocodylus acutus,Crocodylus,1.01,84.2,Juvenile,Male,Venezuela,Brackish Rivers,Vulnerable
+250,American Crocodile,Crocodylus acutus,Crocodylus,2.8,165.3,Adult,Male,Cuba,Coastal Lagoons,Vulnerable
+257,American Crocodile,Crocodylus acutus,Crocodylus,3.51,241.3,Adult,Unknown,Cuba,Estuaries,Vulnerable
+264,American Crocodile,Crocodylus acutus,Crocodylus,0.58,75.8,Hatchling,Male,Costa Rica,Estuaries,Vulnerable
+279,American Crocodile,Crocodylus acutus,Crocodylus,1.78,96.7,Juvenile,Male,Colombia,Coastal Lagoons,Vulnerable
+324,American Crocodile,Crocodylus acutus,Crocodylus,3.3,218.0,Subadult,Female,USA (Florida),Mangroves,Vulnerable
+341,American Crocodile,Crocodylus acutus,Crocodylus,3.05,188.0,Adult,Female,Colombia,Mangroves,Vulnerable
+362,American Crocodile,Crocodylus acutus,Crocodylus,2.02,92.5,Juvenile,Unknown,Colombia,Coastal Lagoons,Vulnerable
+379,American Crocodile,Crocodylus acutus,Crocodylus,3.25,194.1,Subadult,Female,Venezuela,Mangroves,Vulnerable
+381,American Crocodile,Crocodylus acutus,Crocodylus,4.07,352.7,Adult,Female,Colombia,Brackish Rivers,Vulnerable
+385,American Crocodile,Crocodylus acutus,Crocodylus,3.14,196.7,Adult,Male,Colombia,Coastal Lagoons,Vulnerable
+415,American Crocodile,Crocodylus acutus,Crocodylus,3.07,195.5,Adult,Unknown,Colombia,Mangroves,Vulnerable
+423,American Crocodile,Crocodylus acutus,Crocodylus,3.02,183.4,Adult,Unknown,Venezuela,Coastal Lagoons,Vulnerable
+435,American Crocodile,Crocodylus acutus,Crocodylus,3.36,196.1,Adult,Male,Mexico,Brackish Rivers,Vulnerable
+437,American Crocodile,Crocodylus acutus,Crocodylus,0.49,63.2,Hatchling,Female,Colombia,Coastal Lagoons,Vulnerable
+444,American Crocodile,Crocodylus acutus,Crocodylus,3.85,273.7,Adult,Unknown,Colombia,Mangroves,Vulnerable
+448,American Crocodile,Crocodylus acutus,Crocodylus,1.54,91.4,Juvenile,Unknown,Cuba,Brackish Rivers,Vulnerable
+462,American Crocodile,Crocodylus acutus,Crocodylus,3.75,239.0,Adult,Male,Cuba,Mangroves,Vulnerable
+474,American Crocodile,Crocodylus acutus,Crocodylus,2.68,141.8,Adult,Male,Cuba,Brackish Rivers,Vulnerable
+482,American Crocodile,Crocodylus acutus,Crocodylus,1.68,102.0,Juvenile,Unknown,Costa Rica,Estuaries,Vulnerable
+485,American Crocodile,Crocodylus acutus,Crocodylus,2.86,144.4,Adult,Male,Cuba,Mangroves,Vulnerable
+514,American Crocodile,Crocodylus acutus,Crocodylus,3.94,324.6,Adult,Male,Cuba,Mangroves,Vulnerable
+515,American Crocodile,Crocodylus acutus,Crocodylus,0.28,73.1,Hatchling,Unknown,USA (Florida),Estuaries,Vulnerable
+578,American Crocodile,Crocodylus acutus,Crocodylus,3.62,210.4,Subadult,Unknown,Venezuela,Mangroves,Vulnerable
+597,American Crocodile,Crocodylus acutus,Crocodylus,2.97,168.8,Subadult,Female,Mexico,Estuaries,Vulnerable
+605,American Crocodile,Crocodylus acutus,Crocodylus,0.37,78.9,Hatchling,Female,Cuba,Estuaries,Vulnerable
+618,American Crocodile,Crocodylus acutus,Crocodylus,2.6,130.0,Subadult,Unknown,Colombia,Estuaries,Vulnerable
+629,American Crocodile,Crocodylus acutus,Crocodylus,3.71,275.8,Subadult,Unknown,Colombia,Mangroves,Vulnerable
+679,American Crocodile,Crocodylus acutus,Crocodylus,4.18,311.2,Adult,Female,Cuba,Brackish Rivers,Vulnerable
+694,American Crocodile,Crocodylus acutus,Crocodylus,2.24,97.0,Juvenile,Male,Colombia,Coastal Lagoons,Vulnerable
+714,American Crocodile,Crocodylus acutus,Crocodylus,2.63,140.2,Juvenile,Unknown,USA (Florida),Mangroves,Vulnerable
+723,American Crocodile,Crocodylus acutus,Crocodylus,2.76,167.6,Subadult,Male,Mexico,Coastal Lagoons,Vulnerable
+736,American Crocodile,Crocodylus acutus,Crocodylus,4.33,418.1,Adult,Female,Cuba,Estuaries,Vulnerable
+742,American Crocodile,Crocodylus acutus,Crocodylus,3.57,238.3,Adult,Female,Cuba,Mangroves,Vulnerable
+746,American Crocodile,Crocodylus acutus,Crocodylus,3.64,211.9,Adult,Unknown,Cuba,Brackish Rivers,Vulnerable
+750,American Crocodile,Crocodylus acutus,Crocodylus,3.62,280.0,Subadult,Male,Costa Rica,Coastal Lagoons,Vulnerable
+783,American Crocodile,Crocodylus acutus,Crocodylus,2.94,164.0,Adult,Male,USA (Florida),Mangroves,Vulnerable
+784,American Crocodile,Crocodylus acutus,Crocodylus,3.18,215.0,Adult,Unknown,Cuba,Mangroves,Vulnerable
+807,American Crocodile,Crocodylus acutus,Crocodylus,3.45,201.3,Adult,Female,Colombia,Estuaries,Vulnerable
+813,American Crocodile,Crocodylus acutus,Crocodylus,4.18,349.6,Adult,Unknown,Mexico,Coastal Lagoons,Vulnerable
+830,American Crocodile,Crocodylus acutus,Crocodylus,1.51,84.7,Juvenile,Male,Costa Rica,Estuaries,Vulnerable
+839,American Crocodile,Crocodylus acutus,Crocodylus,2.71,124.6,Adult,Unknown,Cuba,Coastal Lagoons,Vulnerable
+846,American Crocodile,Crocodylus acutus,Crocodylus,2.46,112.5,Juvenile,Female,Cuba,Brackish Rivers,Vulnerable
+863,American Crocodile,Crocodylus acutus,Crocodylus,2.8,157.6,Adult,Male,Mexico,Estuaries,Vulnerable
+884,American Crocodile,Crocodylus acutus,Crocodylus,3.09,187.3,Subadult,Unknown,Venezuela,Brackish Rivers,Vulnerable
+885,American Crocodile,Crocodylus acutus,Crocodylus,1.81,99.8,Juvenile,Female,USA (Florida),Mangroves,Vulnerable
+924,American Crocodile,Crocodylus acutus,Crocodylus,3.74,252.0,Adult,Unknown,Cuba,Estuaries,Vulnerable
+952,American Crocodile,Crocodylus acutus,Crocodylus,3.67,269.8,Adult,Unknown,Cuba,Brackish Rivers,Vulnerable
+973,American Crocodile,Crocodylus acutus,Crocodylus,3.25,204.5,Adult,Male,Cuba,Coastal Lagoons,Vulnerable
+90,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.45,75.8,Subadult,Unknown,Papua New Guinea,Rivers,Least Concern
+106,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.26,74.5,Adult,Unknown,Papua New Guinea,Rivers,Least Concern
+116,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.32,163.4,Adult,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+122,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.69,100.3,Adult,Male,Papua New Guinea,Freshwater Wetlands,Least Concern
+138,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.81,126.9,Adult,Unknown,Papua New Guinea,Rivers,Least Concern
+220,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.76,94.8,Subadult,Unknown,Papua New Guinea,Rivers,Least Concern
+282,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.33,69.2,Adult,Male,Papua New Guinea,Freshwater Wetlands,Least Concern
+309,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,1.51,43.1,Juvenile,Male,Papua New Guinea,Rivers,Least Concern
+312,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,1.34,43.5,Juvenile,Female,Papua New Guinea,Freshwater Wetlands,Least Concern
+326,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.28,73.1,Adult,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+331,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,1.86,50.8,Juvenile,Male,Papua New Guinea,Freshwater Wetlands,Least Concern
+372,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.03,145.9,Subadult,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+395,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.81,110.9,Adult,Female,Papua New Guinea,Freshwater Wetlands,Least Concern
+402,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.41,75.0,Adult,Male,Papua New Guinea,Rivers,Least Concern
+457,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.25,147.9,Adult,Unknown,Papua New Guinea,Rivers,Least Concern
+460,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,1.23,38.0,Juvenile,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+461,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.95,126.0,Adult,Female,Papua New Guinea,Rivers,Least Concern
+468,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.81,97.2,Adult,Male,Papua New Guinea,Freshwater Wetlands,Least Concern
+486,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,1.61,39.8,Juvenile,Male,Papua New Guinea,Rivers,Least Concern
+498,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.22,149.7,Subadult,Male,Papua New Guinea,Freshwater Wetlands,Least Concern
+511,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,0.57,33.6,Hatchling,Male,Papua New Guinea,Rivers,Least Concern
+529,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.18,153.5,Subadult,Male,Papua New Guinea,Rivers,Least Concern
+532,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.85,125.8,Adult,Unknown,Papua New Guinea,Rivers,Least Concern
+538,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,1.0,37.4,Juvenile,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+580,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.11,134.8,Adult,Male,Papua New Guinea,Rivers,Least Concern
+587,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,0.49,32.2,Hatchling,Male,Papua New Guinea,Rivers,Least Concern
+675,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.58,91.1,Subadult,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+684,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.53,80.7,Adult,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+703,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.47,99.3,Adult,Male,Papua New Guinea,Rivers,Least Concern
+710,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.49,192.0,Adult,Male,Papua New Guinea,Freshwater Wetlands,Least Concern
+717,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.09,146.1,Subadult,Male,Papua New Guinea,Freshwater Wetlands,Least Concern
+720,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.41,198.2,Adult,Female,Papua New Guinea,Rivers,Least Concern
+729,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.49,97.9,Adult,Female,Papua New Guinea,Freshwater Wetlands,Least Concern
+732,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.42,167.1,Adult,Female,Papua New Guinea,Freshwater Wetlands,Least Concern
+803,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.9,104.1,Adult,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+821,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.97,117.6,Subadult,Female,Papua New Guinea,Rivers,Least Concern
+836,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,0.95,33.9,Juvenile,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+842,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.24,133.7,Adult,Female,Papua New Guinea,Freshwater Wetlands,Least Concern
+851,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,0.94,35.8,Juvenile,Female,Papua New Guinea,Freshwater Wetlands,Least Concern
+883,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.03,118.1,Adult,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+892,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.74,96.4,Adult,Unknown,Papua New Guinea,Rivers,Least Concern
+895,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.83,119.8,Adult,Unknown,Papua New Guinea,Rivers,Least Concern
+899,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,0.8,27.7,Juvenile,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+957,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,1.93,61.7,Juvenile,Unknown,Papua New Guinea,Rivers,Least Concern
+959,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,3.01,141.4,Subadult,Female,Papua New Guinea,Freshwater Wetlands,Least Concern
+978,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,1.99,52.1,Juvenile,Male,Papua New Guinea,Rivers,Least Concern
+991,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.74,121.5,Adult,Male,Papua New Guinea,Rivers,Least Concern
+997,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,2.27,80.3,Subadult,Female,Papua New Guinea,Freshwater Wetlands,Least Concern
+1000,Hall's New Guinea Crocodile,Crocodylus halli,Crocodylus,1.73,47.4,Juvenile,Unknown,Papua New Guinea,Freshwater Wetlands,Least Concern
+3,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,1.08,118.2,Juvenile,Unknown,Venezuela,Flooded Savannas,Critically Endangered
+28,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.94,367.9,Subadult,Male,Venezuela,Flooded Savannas,Critically Endangered
+30,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.71,576.6,Adult,Female,Venezuela,Flooded Savannas,Critically Endangered
+48,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.4,316.6,Subadult,Female,Venezuela,Large Rivers,Critically Endangered
+57,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,0.43,93.9,Hatchling,Female,Venezuela,Flooded Savannas,Critically Endangered
+94,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,1.96,133.2,Juvenile,Male,Colombia,Flooded Savannas,Critically Endangered
+119,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.55,524.1,Adult,Female,Colombia,Flooded Savannas,Critically Endangered
+128,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.87,199.9,Subadult,Unknown,Venezuela,Flooded Savannas,Critically Endangered
+181,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.7,328.6,Adult,Female,Colombia,Large Rivers,Critically Endangered
+190,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,1.13,101.7,Juvenile,Male,Venezuela,Flooded Savannas,Critically Endangered
+226,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.88,346.7,Adult,Unknown,Colombia,Flooded Savannas,Critically Endangered
+229,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.99,215.3,Juvenile,Female,Venezuela,Large Rivers,Critically Endangered
+231,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,0.82,93.9,Hatchling,Male,Venezuela,Flooded Savannas,Critically Endangered
+245,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.14,143.0,Juvenile,Unknown,Venezuela,Large Rivers,Critically Endangered
+267,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.82,223.0,Adult,Unknown,Venezuela,Large Rivers,Critically Endangered
+278,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.25,253.9,Subadult,Unknown,Colombia,Flooded Savannas,Critically Endangered
+318,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,1.9,121.2,Juvenile,Unknown,Venezuela,Flooded Savannas,Critically Endangered
+325,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.8,218.0,Subadult,Unknown,Venezuela,Large Rivers,Critically Endangered
+345,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.49,305.4,Adult,Unknown,Colombia,Flooded Savannas,Critically Endangered
+358,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,0.65,97.9,Hatchling,Male,Venezuela,Flooded Savannas,Critically Endangered
+427,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.88,197.6,Subadult,Male,Colombia,Flooded Savannas,Critically Endangered
+466,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.87,347.9,Adult,Unknown,Venezuela,Large Rivers,Critically Endangered
+490,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.63,194.4,Adult,Male,Colombia,Flooded Savannas,Critically Endangered
+491,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.66,209.5,Juvenile,Female,Colombia,Flooded Savannas,Critically Endangered
+497,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.22,441.8,Subadult,Male,Venezuela,Large Rivers,Critically Endangered
+504,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.77,400.0,Adult,Female,Colombia,Large Rivers,Critically Endangered
+536,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.96,385.8,Subadult,Male,Venezuela,Large Rivers,Critically Endangered
+546,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,1.42,110.1,Juvenile,Female,Venezuela,Flooded Savannas,Critically Endangered
+561,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.24,444.1,Subadult,Female,Venezuela,Large Rivers,Critically Endangered
+589,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.9,428.9,Subadult,Unknown,Venezuela,Flooded Savannas,Critically Endangered
+591,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,1.25,102.9,Juvenile,Male,Venezuela,Flooded Savannas,Critically Endangered
+619,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.66,351.5,Subadult,Female,Venezuela,Large Rivers,Critically Endangered
+634,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.08,134.5,Juvenile,Male,Venezuela,Large Rivers,Critically Endangered
+656,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.68,202.8,Adult,Male,Colombia,Large Rivers,Critically Endangered
+664,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.02,441.0,Adult,Unknown,Colombia,Flooded Savannas,Critically Endangered
+670,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.98,357.4,Adult,Unknown,Venezuela,Flooded Savannas,Critically Endangered
+693,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.35,472.1,Adult,Female,Venezuela,Large Rivers,Critically Endangered
+698,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,0.34,98.1,Hatchling,Female,Venezuela,Flooded Savannas,Critically Endangered
+759,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.9,413.2,Adult,Male,Venezuela,Large Rivers,Critically Endangered
+763,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,0.8,102.1,Hatchling,Male,Venezuela,Flooded Savannas,Critically Endangered
+787,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,1.41,113.1,Juvenile,Female,Venezuela,Large Rivers,Critically Endangered
+789,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.63,193.2,Juvenile,Female,Venezuela,Large Rivers,Critically Endangered
+808,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.16,389.4,Adult,Female,Colombia,Large Rivers,Critically Endangered
+827,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.57,353.0,Adult,Female,Venezuela,Flooded Savannas,Critically Endangered
+835,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.02,162.7,Juvenile,Male,Colombia,Large Rivers,Critically Endangered
+849,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.95,216.9,Juvenile,Male,Venezuela,Flooded Savannas,Critically Endangered
+855,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.98,445.1,Adult,Unknown,Colombia,Flooded Savannas,Critically Endangered
+861,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.81,636.5,Adult,Male,Colombia,Large Rivers,Critically Endangered
+872,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.9,427.3,Subadult,Female,Venezuela,Flooded Savannas,Critically Endangered
+874,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.26,307.4,Adult,Female,Venezuela,Large Rivers,Critically Endangered
+891,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.79,718.2,Adult,Unknown,Venezuela,Large Rivers,Critically Endangered
+898,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.54,593.9,Adult,Unknown,Venezuela,Large Rivers,Critically Endangered
+908,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.16,404.5,Adult,Unknown,Venezuela,Large Rivers,Critically Endangered
+938,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.61,364.2,Adult,Female,Venezuela,Large Rivers,Critically Endangered
+944,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,2.75,204.8,Adult,Male,Colombia,Flooded Savannas,Critically Endangered
+962,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,4.5,581.0,Adult,Male,Colombia,Large Rivers,Critically Endangered
+964,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,3.38,310.3,Adult,Unknown,Venezuela,Flooded Savannas,Critically Endangered
+975,Orinoco Crocodile,Crocodylus intermedius,Crocodylus,1.73,117.2,Juvenile,Unknown,Venezuela,Flooded Savannas,Critically Endangered
+39,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.05,24.0,Juvenile,Female,Australia,Freshwater Rivers,Least Concern
+65,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.93,46.7,Adult,Female,Australia,Freshwater Rivers,Least Concern
+109,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.57,82.1,Adult,Female,Australia,Billabongs,Least Concern
+113,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.59,37.4,Juvenile,Unknown,Australia,Gorges,Least Concern
+114,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.77,38.1,Juvenile,Unknown,Australia,Billabongs,Least Concern
+151,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.17,60.6,Adult,Female,Australia,Freshwater Rivers,Least Concern
+175,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.85,122.1,Adult,Unknown,Australia,Billabongs,Least Concern
+233,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.94,54.2,Subadult,Unknown,Australia,Freshwater Rivers,Least Concern
+244,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.69,45.7,Adult,Unknown,Australia,Freshwater Rivers,Least Concern
+260,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.86,107.4,Adult,Male,Australia,Gorges,Least Concern
+290,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.47,30.9,Juvenile,Female,Australia,Gorges,Least Concern
+327,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.75,42.5,Juvenile,Female,Australia,Billabongs,Least Concern
+354,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,0.88,20.5,Juvenile,Male,Australia,Gorges,Least Concern
+370,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.04,59.3,Subadult,Male,Australia,Billabongs,Least Concern
+388,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.58,36.6,Juvenile,Unknown,Australia,Freshwater Rivers,Least Concern
+392,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.06,63.1,Subadult,Unknown,Australia,Gorges,Least Concern
+398,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.91,54.2,Adult,Female,Australia,Billabongs,Least Concern
+409,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.89,42.6,Adult,Female,Australia,Freshwater Rivers,Least Concern
+429,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.07,53.4,Adult,Female,Australia,Billabongs,Least Concern
+439,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.34,76.8,Subadult,Male,Australia,Billabongs,Least Concern
+440,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.31,62.6,Adult,Unknown,Australia,Freshwater Rivers,Least Concern
+473,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,0.91,26.9,Juvenile,Unknown,Australia,Gorges,Least Concern
+476,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,0.88,26.6,Juvenile,Male,Australia,Gorges,Least Concern
+499,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,0.27,19.9,Hatchling,Female,Australia,Billabongs,Least Concern
+506,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,0.84,25.0,Juvenile,Female,Australia,Billabongs,Least Concern
+513,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.01,60.8,Adult,Unknown,Australia,Freshwater Rivers,Least Concern
+553,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.96,57.1,Subadult,Unknown,Australia,Gorges,Least Concern
+556,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,0.39,18.0,Hatchling,Female,Australia,Billabongs,Least Concern
+600,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.63,97.4,Adult,Female,Australia,Billabongs,Least Concern
+610,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.34,65.2,Subadult,Female,Australia,Gorges,Least Concern
+615,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.68,36.8,Juvenile,Male,Australia,Freshwater Rivers,Least Concern
+641,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.13,60.4,Adult,Male,Australia,Gorges,Least Concern
+650,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,0.8,24.0,Juvenile,Unknown,Australia,Billabongs,Least Concern
+699,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.36,69.6,Adult,Male,Australia,Freshwater Rivers,Least Concern
+704,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,0.81,24.1,Juvenile,Male,Australia,Billabongs,Least Concern
+708,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.72,103.5,Adult,Male,Australia,Billabongs,Least Concern
+718,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.26,68.5,Subadult,Female,Australia,Gorges,Least Concern
+765,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.18,71.2,Adult,Male,Australia,Freshwater Rivers,Least Concern
+795,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.71,87.4,Adult,Male,Australia,Gorges,Least Concern
+806,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.07,65.5,Subadult,Female,Australia,Billabongs,Least Concern
+887,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.06,49.3,Adult,Male,Australia,Billabongs,Least Concern
+893,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.54,78.2,Adult,Male,Australia,Freshwater Rivers,Least Concern
+936,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.4,72.3,Adult,Female,Australia,Freshwater Rivers,Least Concern
+977,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,1.32,27.3,Juvenile,Male,Australia,Gorges,Least Concern
+982,Freshwater Crocodile (Johnstone's),Crocodylus johnstoni,Crocodylus,2.14,57.7,Adult,Female,Australia,Gorges,Least Concern
+34,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.01,28.9,Juvenile,Unknown,Philippines,Rivers,Critically Endangered
+36,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.26,84.2,Adult,Male,Philippines,Freshwater Marshes,Critically Endangered
+83,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.6,47.0,Subadult,Male,Philippines,Freshwater Marshes,Critically Endangered
+102,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.27,76.7,Adult,Unknown,Philippines,Freshwater Marshes,Critically Endangered
+142,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.94,65.9,Subadult,Unknown,Philippines,Freshwater Marshes,Critically Endangered
+195,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.15,70.3,Subadult,Male,Philippines,Freshwater Marshes,Critically Endangered
+219,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.03,73.2,Adult,Male,Philippines,Ponds,Critically Endangered
+241,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.88,57.7,Subadult,Male,Philippines,Freshwater Marshes,Critically Endangered
+254,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,0.38,22.0,Hatchling,Male,Philippines,Ponds,Critically Endangered
+262,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.1,59.1,Adult,Male,Philippines,Rivers,Critically Endangered
+270,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.31,84.8,Adult,Unknown,Philippines,Rivers,Critically Endangered
+283,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.02,71.7,Subadult,Male,Philippines,Ponds,Critically Endangered
+297,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.48,104.1,Adult,Female,Philippines,Ponds,Critically Endangered
+316,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.67,48.8,Adult,Male,Philippines,Freshwater Marshes,Critically Endangered
+322,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.73,45.3,Subadult,Unknown,Philippines,Ponds,Critically Endangered
+332,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.57,40.7,Juvenile,Male,Philippines,Rivers,Critically Endangered
+371,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.04,65.8,Subadult,Male,Philippines,Rivers,Critically Endangered
+373,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.42,33.3,Juvenile,Female,Philippines,Rivers,Critically Endangered
+377,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.61,40.4,Subadult,Female,Philippines,Freshwater Marshes,Critically Endangered
+399,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.46,34.7,Adult,Female,Philippines,Freshwater Marshes,Critically Endangered
+459,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.62,117.5,Adult,Male,Philippines,Rivers,Critically Endangered
+494,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.82,56.7,Adult,Male,Philippines,Rivers,Critically Endangered
+505,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.74,52.7,Subadult,Male,Philippines,Rivers,Critically Endangered
+507,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.45,41.6,Juvenile,Female,Philippines,Freshwater Marshes,Critically Endangered
+510,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.25,74.6,Subadult,Female,Philippines,Rivers,Critically Endangered
+566,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,0.41,17.5,Hatchling,Female,Philippines,Freshwater Marshes,Critically Endangered
+572,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.81,45.5,Subadult,Male,Philippines,Rivers,Critically Endangered
+588,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.05,71.9,Subadult,Unknown,Philippines,Rivers,Critically Endangered
+599,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.16,25.5,Juvenile,Unknown,Philippines,Freshwater Marshes,Critically Endangered
+602,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.08,66.9,Subadult,Unknown,Philippines,Rivers,Critically Endangered
+612,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.31,79.3,Adult,Female,Philippines,Freshwater Marshes,Critically Endangered
+616,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.3,78.4,Adult,Unknown,Philippines,Rivers,Critically Endangered
+621,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.29,84.4,Adult,Unknown,Philippines,Freshwater Marshes,Critically Endangered
+624,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.62,38.9,Adult,Female,Philippines,Rivers,Critically Endangered
+625,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.0,60.9,Adult,Female,Philippines,Freshwater Marshes,Critically Endangered
+628,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.23,87.7,Subadult,Unknown,Philippines,Rivers,Critically Endangered
+692,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.3,30.7,Juvenile,Female,Philippines,Freshwater Marshes,Critically Endangered
+696,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.68,45.9,Subadult,Female,Philippines,Freshwater Marshes,Critically Endangered
+725,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.52,44.6,Adult,Unknown,Philippines,Freshwater Marshes,Critically Endangered
+727,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,0.7,20.0,Juvenile,Unknown,Philippines,Rivers,Critically Endangered
+737,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.78,53.9,Adult,Female,Philippines,Ponds,Critically Endangered
+743,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.32,86.5,Adult,Female,Philippines,Ponds,Critically Endangered
+755,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.61,43.5,Adult,Female,Philippines,Ponds,Critically Endangered
+761,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.8,44.7,Adult,Unknown,Philippines,Ponds,Critically Endangered
+768,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.27,87.5,Subadult,Female,Philippines,Rivers,Critically Endangered
+797,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.09,73.8,Subadult,Unknown,Philippines,Freshwater Marshes,Critically Endangered
+824,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.33,73.5,Adult,Unknown,Philippines,Freshwater Marshes,Critically Endangered
+829,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.48,42.6,Juvenile,Unknown,Philippines,Freshwater Marshes,Critically Endangered
+840,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.86,47.5,Subadult,Unknown,Philippines,Rivers,Critically Endangered
+857,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.69,51.5,Subadult,Unknown,Philippines,Ponds,Critically Endangered
+862,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.94,51.7,Subadult,Female,Philippines,Ponds,Critically Endangered
+868,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.68,40.4,Adult,Female,Philippines,Ponds,Critically Endangered
+912,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.34,79.4,Adult,Female,Philippines,Ponds,Critically Endangered
+918,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.89,49.8,Adult,Female,Philippines,Ponds,Critically Endangered
+928,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.27,79.3,Adult,Unknown,Philippines,Freshwater Marshes,Critically Endangered
+942,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,1.98,56.1,Subadult,Female,Philippines,Rivers,Critically Endangered
+965,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.17,78.2,Subadult,Female,Philippines,Rivers,Critically Endangered
+983,Philippine Crocodile,Crocodylus mindorensis,Crocodylus,2.04,69.0,Adult,Male,Philippines,Freshwater Marshes,Critically Endangered
+1,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.9,62.0,Adult,Male,Belize,Swamps,Least Concern
+4,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.42,90.4,Adult,Male,Mexico,Rivers,Least Concern
+10,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,3.39,197.2,Adult,Male,Mexico,Lagoons,Least Concern
+12,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.84,60.7,Adult,Male,Belize,Lagoons,Least Concern
+16,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.0,67.9,Adult,Unknown,Mexico,Rivers,Least Concern
+17,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.98,61.5,Juvenile,Unknown,Mexico,Lagoons,Least Concern
+44,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.33,74.0,Adult,Unknown,Mexico,Swamps,Least Concern
+45,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.5,90.6,Adult,Male,Guatemala,Lagoons,Least Concern
+46,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.52,104.1,Adult,Male,Guatemala,Rivers,Least Concern
+77,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.15,75.1,Adult,Female,Guatemala,Rivers,Least Concern
+81,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.1,41.1,Juvenile,Female,Guatemala,Rivers,Least Concern
+85,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.31,90.9,Adult,Female,Guatemala,Swamps,Least Concern
+91,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.51,102.4,Subadult,Unknown,Guatemala,Lagoons,Least Concern
+110,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.46,100.2,Subadult,Male,Mexico,Rivers,Least Concern
+147,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.42,78.6,Adult,Female,Mexico,Rivers,Least Concern
+156,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,0.16,28.2,Hatchling,Unknown,Guatemala,Rivers,Least Concern
+163,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.22,74.6,Subadult,Unknown,Belize,Rivers,Least Concern
+179,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.79,123.4,Subadult,Unknown,Belize,Rivers,Least Concern
+189,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.18,75.2,Adult,Unknown,Belize,Rivers,Least Concern
+206,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.83,54.7,Adult,Male,Guatemala,Swamps,Least Concern
+224,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.78,100.4,Subadult,Male,Guatemala,Rivers,Least Concern
+240,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.9,55.3,Adult,Unknown,Mexico,Swamps,Least Concern
+274,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.67,118.9,Adult,Unknown,Mexico,Swamps,Least Concern
+300,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.79,101.5,Subadult,Male,Mexico,Swamps,Least Concern
+353,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.59,87.1,Subadult,Unknown,Mexico,Rivers,Least Concern
+390,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.82,59.0,Adult,Unknown,Mexico,Rivers,Least Concern
+410,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.88,60.1,Juvenile,Female,Mexico,Lagoons,Least Concern
+433,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.57,101.4,Adult,Male,Mexico,Rivers,Least Concern
+467,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.16,65.1,Adult,Male,Belize,Rivers,Least Concern
+479,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.82,133.4,Adult,Female,Guatemala,Lagoons,Least Concern
+480,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,3.0,129.6,Adult,Female,Mexico,Swamps,Least Concern
+527,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,0.79,32.4,Juvenile,Female,Guatemala,Lagoons,Least Concern
+537,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.35,87.5,Subadult,Unknown,Guatemala,Rivers,Least Concern
+575,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,0.32,34.1,Hatchling,Female,Mexico,Lagoons,Least Concern
+583,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.58,87.1,Subadult,Unknown,Guatemala,Swamps,Least Concern
+636,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.76,51.2,Adult,Female,Belize,Rivers,Least Concern
+642,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.88,141.9,Adult,Male,Belize,Lagoons,Least Concern
+643,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.16,73.6,Subadult,Unknown,Guatemala,Rivers,Least Concern
+657,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,0.26,34.1,Hatchling,Unknown,Belize,Lagoons,Least Concern
+681,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.05,35.0,Juvenile,Unknown,Guatemala,Swamps,Least Concern
+682,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,0.17,26.0,Hatchling,Unknown,Mexico,Rivers,Least Concern
+697,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.89,134.6,Subadult,Unknown,Guatemala,Swamps,Least Concern
+711,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.7,51.7,Adult,Male,Belize,Swamps,Least Concern
+730,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.76,115.5,Adult,Unknown,Belize,Swamps,Least Concern
+738,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,0.65,34.5,Juvenile,Male,Mexico,Rivers,Least Concern
+740,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.43,95.5,Adult,Male,Mexico,Lagoons,Least Concern
+752,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.66,120.3,Subadult,Unknown,Mexico,Swamps,Least Concern
+767,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.64,117.3,Subadult,Female,Belize,Rivers,Least Concern
+772,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.96,132.0,Adult,Unknown,Guatemala,Swamps,Least Concern
+810,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.79,115.1,Subadult,Unknown,Belize,Swamps,Least Concern
+817,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.81,61.7,Adult,Male,Mexico,Rivers,Least Concern
+823,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.56,87.0,Subadult,Male,Belize,Swamps,Least Concern
+850,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.52,50.9,Juvenile,Female,Belize,Lagoons,Least Concern
+894,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.35,89.8,Subadult,Female,Guatemala,Rivers,Least Concern
+903,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,1.76,57.8,Adult,Female,Guatemala,Rivers,Least Concern
+914,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.6,105.9,Adult,Male,Belize,Lagoons,Least Concern
+916,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.9,126.3,Subadult,Unknown,Guatemala,Swamps,Least Concern
+917,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.47,86.4,Adult,Unknown,Mexico,Rivers,Least Concern
+949,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,0.6,35.4,Juvenile,Female,Belize,Lagoons,Least Concern
+958,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,3.1,143.3,Adult,Unknown,Belize,Lagoons,Least Concern
+974,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.41,92.5,Adult,Female,Belize,Swamps,Least Concern
+976,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.1,78.2,Subadult,Unknown,Mexico,Rivers,Least Concern
+979,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,2.3,80.3,Adult,Unknown,Belize,Rivers,Least Concern
+995,Morelet's Crocodile,Crocodylus moreletii,Crocodylus,3.4,159.5,Adult,Female,Guatemala,Rivers,Least Concern
+18,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.37,565.0,Adult,Female,Sudan,Reservoirs,Least Concern
+22,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.65,759.8,Adult,Male,Tanzania,Lakes,Least Concern
+25,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.18,342.1,Juvenile,Male,Kenya,Marshes,Least Concern
+42,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.57,387.4,Subadult,Female,South Africa,Marshes,Least Concern
+64,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.78,383.2,Adult,Male,Kenya,Lakes,Least Concern
+74,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.34,596.2,Subadult,Female,Egypt,Lakes,Least Concern
+92,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.32,309.5,Subadult,Unknown,Kenya,Lakes,Least Concern
+111,Nile Crocodile,Crocodylus niloticus,Crocodylus,1.77,159.9,Juvenile,Unknown,Tanzania,Lakes,Least Concern
+134,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.55,621.4,Adult,Male,Nigeria,Marshes,Least Concern
+154,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.13,362.6,Subadult,Male,South Africa,Rivers,Least Concern
+168,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.85,479.0,Subadult,Female,Uganda,Rivers,Least Concern
+203,Nile Crocodile,Crocodylus niloticus,Crocodylus,0.56,133.9,Hatchling,Female,Uganda,Reservoirs,Least Concern
+205,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.62,712.0,Adult,Unknown,South Africa,Lakes,Least Concern
+232,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.14,336.8,Subadult,Unknown,Nigeria,Rivers,Least Concern
+255,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.56,437.1,Adult,Female,Uganda,Reservoirs,Least Concern
+265,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.0,438.8,Subadult,Male,Tanzania,Reservoirs,Least Concern
+271,Nile Crocodile,Crocodylus niloticus,Crocodylus,2.68,286.7,Juvenile,Unknown,South Africa,Marshes,Least Concern
+273,Nile Crocodile,Crocodylus niloticus,Crocodylus,5.18,848.2,Adult,Unknown,Tanzania,Marshes,Least Concern
+298,Nile Crocodile,Crocodylus niloticus,Crocodylus,1.63,169.1,Juvenile,Unknown,South Africa,Marshes,Least Concern
+350,Nile Crocodile,Crocodylus niloticus,Crocodylus,2.04,168.7,Juvenile,Male,Kenya,Reservoirs,Least Concern
+376,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.1,513.9,Adult,Female,Sudan,Rivers,Least Concern
+441,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.91,512.7,Subadult,Female,Kenya,Marshes,Least Concern
+471,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.83,461.5,Subadult,Unknown,Egypt,Marshes,Least Concern
+483,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.43,334.3,Adult,Female,Sudan,Rivers,Least Concern
+484,Nile Crocodile,Crocodylus niloticus,Crocodylus,5.31,998.3,Adult,Male,Kenya,Marshes,Least Concern
+518,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.69,379.4,Adult,Male,South Africa,Reservoirs,Least Concern
+521,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.78,419.4,Adult,Female,Kenya,Reservoirs,Least Concern
+528,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.41,646.1,Adult,Female,Tanzania,Rivers,Least Concern
+574,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.35,507.6,Adult,Unknown,Nigeria,Rivers,Least Concern
+590,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.37,601.3,Adult,Male,Uganda,Lakes,Least Concern
+620,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.69,738.4,Adult,Male,Tanzania,Reservoirs,Least Concern
+631,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.39,381.1,Adult,Male,Uganda,Reservoirs,Least Concern
+668,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.29,647.7,Adult,Unknown,South Africa,Rivers,Least Concern
+669,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.18,571.8,Adult,Unknown,Nigeria,Rivers,Least Concern
+695,Nile Crocodile,Crocodylus niloticus,Crocodylus,2.46,198.5,Juvenile,Male,Kenya,Marshes,Least Concern
+707,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.59,338.5,Adult,Unknown,South Africa,Marshes,Least Concern
+728,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.39,578.9,Subadult,Female,Uganda,Reservoirs,Least Concern
+749,Nile Crocodile,Crocodylus niloticus,Crocodylus,2.86,296.2,Juvenile,Female,Sudan,Marshes,Least Concern
+825,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.14,515.7,Adult,Unknown,Sudan,Rivers,Least Concern
+833,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.38,310.1,Adult,Female,Tanzania,Reservoirs,Least Concern
+838,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.22,482.8,Adult,Unknown,Uganda,Marshes,Least Concern
+853,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.02,283.5,Juvenile,Male,Nigeria,Reservoirs,Least Concern
+856,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.48,604.8,Adult,Male,Tanzania,Lakes,Least Concern
+937,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.43,317.9,Adult,Unknown,Tanzania,Marshes,Least Concern
+960,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.5,598.5,Subadult,Unknown,Tanzania,Lakes,Least Concern
+967,Nile Crocodile,Crocodylus niloticus,Crocodylus,4.68,661.7,Adult,Female,Tanzania,Marshes,Least Concern
+971,Nile Crocodile,Crocodylus niloticus,Crocodylus,2.07,202.3,Juvenile,Unknown,Tanzania,Lakes,Least Concern
+992,Nile Crocodile,Crocodylus niloticus,Crocodylus,3.13,285.8,Subadult,Male,Egypt,Reservoirs,Least Concern
+35,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,0.76,36.7,Juvenile,Unknown,Papua New Guinea,Swamps,Least Concern
+50,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.51,87.4,Subadult,Female,Indonesia (Papua),Swamps,Least Concern
+55,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.97,120.1,Subadult,Female,Papua New Guinea,Rivers,Least Concern
+61,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,3.04,133.9,Adult,Unknown,Indonesia (Papua),Lakes,Least Concern
+100,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.21,64.9,Subadult,Unknown,Indonesia (Papua),Swamps,Least Concern
+133,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.52,39.0,Juvenile,Female,Indonesia (Papua),Swamps,Least Concern
+137,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.26,74.0,Adult,Unknown,Indonesia (Papua),Swamps,Least Concern
+140,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.82,129.1,Subadult,Unknown,Papua New Guinea,Rivers,Least Concern
+153,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,0.88,32.3,Juvenile,Unknown,Indonesia (Papua),Rivers,Least Concern
+159,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.21,76.1,Subadult,Unknown,Papua New Guinea,Rivers,Least Concern
+172,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.31,88.7,Adult,Female,Papua New Guinea,Rivers,Least Concern
+184,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.1,70.3,Adult,Female,Indonesia (Papua),Swamps,Least Concern
+198,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.36,83.0,Subadult,Unknown,Papua New Guinea,Swamps,Least Concern
+216,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.64,42.3,Juvenile,Male,Papua New Guinea,Swamps,Least Concern
+221,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.2,40.7,Juvenile,Female,Indonesia (Papua),Swamps,Least Concern
+230,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.87,128.0,Adult,Male,Indonesia (Papua),Rivers,Least Concern
+235,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.74,48.3,Juvenile,Female,Papua New Guinea,Rivers,Least Concern
+281,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.76,48.7,Juvenile,Female,Indonesia (Papua),Rivers,Least Concern
+286,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.29,83.8,Subadult,Unknown,Papua New Guinea,Rivers,Least Concern
+287,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.89,144.5,Adult,Unknown,Indonesia (Papua),Swamps,Least Concern
+311,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.26,83.5,Adult,Unknown,Indonesia (Papua),Rivers,Least Concern
+321,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.73,104.6,Adult,Unknown,Indonesia (Papua),Rivers,Least Concern
+333,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.33,82.0,Adult,Unknown,Indonesia (Papua),Lakes,Least Concern
+340,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.59,90.2,Subadult,Male,Indonesia (Papua),Swamps,Least Concern
+351,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,0.24,32.3,Hatchling,Male,Indonesia (Papua),Swamps,Least Concern
+359,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.5,97.3,Subadult,Female,Indonesia (Papua),Lakes,Least Concern
+364,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.46,41.8,Juvenile,Unknown,Indonesia (Papua),Swamps,Least Concern
+386,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.6,106.1,Adult,Male,Papua New Guinea,Swamps,Least Concern
+396,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.6,89.9,Adult,Unknown,Papua New Guinea,Swamps,Least Concern
+400,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.42,76.0,Subadult,Male,Papua New Guinea,Rivers,Least Concern
+404,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,3.12,166.5,Adult,Unknown,Papua New Guinea,Rivers,Least Concern
+408,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.02,62.4,Subadult,Unknown,Indonesia (Papua),Rivers,Least Concern
+411,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.78,55.6,Juvenile,Male,Papua New Guinea,Swamps,Least Concern
+412,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.04,31.5,Juvenile,Female,Papua New Guinea,Swamps,Least Concern
+414,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.84,60.9,Juvenile,Female,Indonesia (Papua),Rivers,Least Concern
+430,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.16,70.5,Adult,Female,Indonesia (Papua),Swamps,Least Concern
+432,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.1,32.6,Juvenile,Male,Papua New Guinea,Lakes,Least Concern
+442,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.26,82.0,Adult,Male,Papua New Guinea,Lakes,Least Concern
+455,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.25,86.8,Adult,Female,Papua New Guinea,Swamps,Least Concern
+508,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.96,118.0,Adult,Unknown,Papua New Guinea,Lakes,Least Concern
+517,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.22,66.0,Subadult,Female,Indonesia (Papua),Swamps,Least Concern
+522,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.54,84.7,Adult,Male,Papua New Guinea,Swamps,Least Concern
+552,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.72,96.3,Adult,Male,Papua New Guinea,Rivers,Least Concern
+567,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.03,68.5,Juvenile,Male,Indonesia (Papua),Lakes,Least Concern
+585,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,0.72,33.8,Juvenile,Unknown,Papua New Guinea,Rivers,Least Concern
+592,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.39,98.6,Adult,Female,Papua New Guinea,Lakes,Least Concern
+604,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.24,38.1,Juvenile,Female,Indonesia (Papua),Rivers,Least Concern
+608,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.85,122.1,Subadult,Unknown,Indonesia (Papua),Swamps,Least Concern
+622,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.95,67.5,Subadult,Female,Papua New Guinea,Lakes,Least Concern
+639,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.56,95.7,Subadult,Unknown,Papua New Guinea,Swamps,Least Concern
+662,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,0.71,30.5,Juvenile,Male,Papua New Guinea,Lakes,Least Concern
+667,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,3.38,161.3,Adult,Male,Indonesia (Papua),Rivers,Least Concern
+700,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.3,42.3,Juvenile,Male,Indonesia (Papua),Lakes,Least Concern
+721,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.5,106.7,Subadult,Male,Papua New Guinea,Swamps,Least Concern
+724,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.48,100.5,Adult,Female,Indonesia (Papua),Lakes,Least Concern
+748,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.56,101.3,Subadult,Male,Papua New Guinea,Swamps,Least Concern
+811,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,0.38,28.4,Hatchling,Male,Papua New Guinea,Lakes,Least Concern
+812,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.86,49.2,Juvenile,Unknown,Indonesia (Papua),Rivers,Least Concern
+822,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.45,84.4,Adult,Female,Indonesia (Papua),Swamps,Least Concern
+837,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.35,84.2,Adult,Female,Papua New Guinea,Swamps,Least Concern
+843,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.88,115.5,Adult,Unknown,Papua New Guinea,Lakes,Least Concern
+869,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,1.98,58.9,Juvenile,Female,Papua New Guinea,Lakes,Least Concern
+889,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.21,77.3,Adult,Unknown,Indonesia (Papua),Rivers,Least Concern
+890,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.74,107.4,Adult,Male,Indonesia (Papua),Lakes,Least Concern
+913,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.75,117.5,Adult,Female,Papua New Guinea,Rivers,Least Concern
+927,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.81,130.0,Adult,Unknown,Papua New Guinea,Rivers,Least Concern
+929,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.23,78.8,Subadult,Female,Papua New Guinea,Lakes,Least Concern
+985,New Guinea Crocodile,Crocodylus novaeguineae,Crocodylus,2.5,80.4,Adult,Male,Papua New Guinea,Swamps,Least Concern
+5,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.75,269.4,Adult,Unknown,India,Rivers,Vulnerable
+6,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.64,137.4,Adult,Male,India,Reservoirs,Vulnerable
+27,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.39,174.9,Adult,Female,Pakistan,Rivers,Vulnerable
+41,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.25,195.6,Adult,Unknown,Pakistan,Rivers,Vulnerable
+88,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.82,159.3,Subadult,Unknown,Pakistan,Lakes,Vulnerable
+95,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,1.21,54.8,Juvenile,Male,Pakistan,Rivers,Vulnerable
+125,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.19,153.6,Adult,Female,Iran (historic),Rivers,Vulnerable
+144,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.11,179.1,Subadult,Male,Iran (historic),Rivers,Vulnerable
+182,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.98,153.5,Adult,Unknown,Iran (historic),Marshes,Vulnerable
+204,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.25,104.2,Juvenile,Male,Sri Lanka,Lakes,Vulnerable
+258,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.53,233.8,Adult,Unknown,Pakistan,Reservoirs,Vulnerable
+261,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.87,160.3,Subadult,Female,Iran (historic),Lakes,Vulnerable
+323,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.22,193.4,Subadult,Unknown,Sri Lanka,Marshes,Vulnerable
+346,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,0.61,56.4,Hatchling,Female,Pakistan,Lakes,Vulnerable
+348,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.8,149.4,Subadult,Unknown,Nepal,Reservoirs,Vulnerable
+383,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.25,186.3,Adult,Unknown,Nepal,Rivers,Vulnerable
+393,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,0.64,47.8,Hatchling,Unknown,Sri Lanka,Lakes,Vulnerable
+421,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.66,116.2,Adult,Female,Iran (historic),Reservoirs,Vulnerable
+428,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,1.23,63.7,Juvenile,Male,Pakistan,Marshes,Vulnerable
+446,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.48,101.4,Subadult,Male,Iran (historic),Reservoirs,Vulnerable
+454,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.52,118.3,Adult,Female,Pakistan,Rivers,Vulnerable
+557,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.65,249.9,Adult,Unknown,Nepal,Reservoirs,Vulnerable
+581,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.51,124.6,Subadult,Female,Nepal,Rivers,Vulnerable
+598,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.78,121.0,Subadult,Female,Iran (historic),Rivers,Vulnerable
+601,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.57,217.9,Subadult,Male,Sri Lanka,Marshes,Vulnerable
+613,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.61,210.9,Adult,Unknown,Sri Lanka,Reservoirs,Vulnerable
+617,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.09,145.8,Subadult,Female,Iran (historic),Reservoirs,Vulnerable
+646,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.42,223.3,Adult,Unknown,Iran (historic),Reservoirs,Vulnerable
+659,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.46,208.3,Subadult,Unknown,Nepal,Marshes,Vulnerable
+706,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.9,158.9,Adult,Female,Pakistan,Reservoirs,Vulnerable
+709,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.91,280.9,Adult,Female,Pakistan,Rivers,Vulnerable
+719,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,4.03,292.8,Adult,Male,Pakistan,Marshes,Vulnerable
+747,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.3,214.5,Subadult,Unknown,Iran (historic),Marshes,Vulnerable
+751,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.5,109.2,Juvenile,Unknown,India,Reservoirs,Vulnerable
+754,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,1.99,91.7,Juvenile,Unknown,India,Marshes,Vulnerable
+762,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.26,184.9,Adult,Unknown,Pakistan,Reservoirs,Vulnerable
+766,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.49,233.2,Adult,Female,India,Rivers,Vulnerable
+805,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.01,164.6,Subadult,Female,Nepal,Lakes,Vulnerable
+809,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.69,135.6,Adult,Female,India,Rivers,Vulnerable
+877,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.07,157.5,Adult,Female,Nepal,Reservoirs,Vulnerable
+900,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.72,225.8,Subadult,Female,India,Lakes,Vulnerable
+904,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,1.22,54.4,Juvenile,Female,Pakistan,Reservoirs,Vulnerable
+919,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.01,155.1,Subadult,Female,Pakistan,Reservoirs,Vulnerable
+922,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.97,174.6,Subadult,Male,Sri Lanka,Lakes,Vulnerable
+932,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,3.97,269.9,Adult,Female,Sri Lanka,Marshes,Vulnerable
+948,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,0.47,51.1,Hatchling,Unknown,Sri Lanka,Reservoirs,Vulnerable
+986,Mugger Crocodile (Marsh Crocodile),Crocodylus palustris,Crocodylus,2.54,113.2,Juvenile,Male,Iran (historic),Rivers,Vulnerable
+20,Saltwater Crocodile,Crocodylus porosus,Crocodylus,1.55,350.9,Juvenile,Male,Philippines,Estuaries,Least Concern
+54,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.83,953.9,Adult,Unknown,Papua New Guinea,Coastal Wetlands,Least Concern
+60,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.43,818.2,Adult,Male,Indonesia,Coastal Wetlands,Least Concern
+71,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.9,629.7,Subadult,Male,Philippines,Coastal Wetlands,Least Concern
+80,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.07,791.7,Adult,Female,Malaysia,Mangroves,Least Concern
+101,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.86,760.5,Adult,Unknown,Papua New Guinea,Estuaries,Least Concern
+112,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.59,402.7,Subadult,Female,India,Coastal Wetlands,Least Concern
+115,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.68,692.4,Adult,Unknown,Indonesia,Mangroves,Least Concern
+117,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.1,827.2,Subadult,Female,Australia,Tidal Rivers,Least Concern
+120,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.22,809.0,Adult,Male,Malaysia,Coastal Wetlands,Least Concern
+139,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.05,344.0,Juvenile,Unknown,India,Estuaries,Least Concern
+158,Saltwater Crocodile,Crocodylus porosus,Crocodylus,6.02,1032.7,Adult,Male,Philippines,Tidal Rivers,Least Concern
+167,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.48,878.6,Adult,Unknown,Papua New Guinea,Coastal Wetlands,Least Concern
+171,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.21,517.3,Adult,Unknown,Indonesia,Estuaries,Least Concern
+183,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.32,868.3,Adult,Female,Malaysia,Estuaries,Least Concern
+201,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.58,522.8,Subadult,Male,India,Tidal Rivers,Least Concern
+208,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.91,906.6,Adult,Male,Australia,Tidal Rivers,Least Concern
+210,Saltwater Crocodile,Crocodylus porosus,Crocodylus,6.02,1085.6,Adult,Female,Papua New Guinea,Estuaries,Least Concern
+249,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.55,405.8,Juvenile,Unknown,Indonesia,Tidal Rivers,Least Concern
+268,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.08,418.9,Juvenile,Female,Malaysia,Estuaries,Least Concern
+275,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.19,541.7,Adult,Female,Australia,Mangroves,Least Concern
+292,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.96,637.2,Subadult,Male,Indonesia,Estuaries,Least Concern
+302,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.62,437.6,Adult,Unknown,India,Coastal Wetlands,Least Concern
+310,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.65,449.3,Juvenile,Female,Papua New Guinea,Estuaries,Least Concern
+315,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.33,658.3,Adult,Unknown,Malaysia,Tidal Rivers,Least Concern
+334,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.81,493.9,Subadult,Female,Australia,Estuaries,Least Concern
+366,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.16,558.3,Subadult,Unknown,India,Estuaries,Least Concern
+368,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.78,696.0,Adult,Male,Philippines,Estuaries,Least Concern
+387,Saltwater Crocodile,Crocodylus porosus,Crocodylus,6.12,1139.7,Adult,Male,Papua New Guinea,Coastal Wetlands,Least Concern
+403,Saltwater Crocodile,Crocodylus porosus,Crocodylus,0.53,263.9,Hatchling,Unknown,Papua New Guinea,Mangroves,Least Concern
+422,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.18,473.1,Juvenile,Female,Philippines,Estuaries,Least Concern
+425,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.1,698.8,Adult,Male,Papua New Guinea,Estuaries,Least Concern
+453,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.33,550.0,Adult,Unknown,Malaysia,Mangroves,Least Concern
+456,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.74,517.7,Subadult,Unknown,Papua New Guinea,Mangroves,Least Concern
+523,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.61,399.7,Juvenile,Male,India,Coastal Wetlands,Least Concern
+533,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.71,695.5,Adult,Unknown,Malaysia,Estuaries,Least Concern
+548,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.79,904.4,Adult,Unknown,Philippines,Coastal Wetlands,Least Concern
+562,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.18,542.3,Subadult,Female,Papua New Guinea,Coastal Wetlands,Least Concern
+568,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.4,765.7,Adult,Male,India,Mangroves,Least Concern
+594,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.99,779.4,Subadult,Unknown,Australia,Mangroves,Least Concern
+596,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.31,514.4,Subadult,Female,Philippines,Estuaries,Least Concern
+623,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.44,509.4,Subadult,Female,India,Estuaries,Least Concern
+648,Saltwater Crocodile,Crocodylus porosus,Crocodylus,1.28,298.1,Juvenile,Female,Papua New Guinea,Tidal Rivers,Least Concern
+673,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.05,624.1,Adult,Male,Indonesia,Estuaries,Least Concern
+676,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.51,642.3,Adult,Unknown,Australia,Coastal Wetlands,Least Concern
+690,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.76,638.5,Subadult,Male,Philippines,Tidal Rivers,Least Concern
+733,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.21,527.9,Adult,Female,Philippines,Coastal Wetlands,Least Concern
+745,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.8,535.1,Subadult,Female,India,Tidal Rivers,Least Concern
+770,Saltwater Crocodile,Crocodylus porosus,Crocodylus,3.58,498.9,Juvenile,Unknown,Philippines,Mangroves,Least Concern
+782,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.33,517.9,Adult,Unknown,Indonesia,Coastal Wetlands,Least Concern
+798,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.76,660.4,Subadult,Male,Australia,Estuaries,Least Concern
+865,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.2,751.3,Adult,Female,India,Mangroves,Least Concern
+871,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.48,918.4,Adult,Female,Australia,Mangroves,Least Concern
+882,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.23,524.7,Subadult,Male,Indonesia,Mangroves,Least Concern
+902,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.1,514.5,Adult,Unknown,Malaysia,Coastal Wetlands,Least Concern
+905,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.84,639.9,Adult,Male,Malaysia,Tidal Rivers,Least Concern
+910,Saltwater Crocodile,Crocodylus porosus,Crocodylus,5.13,765.1,Adult,Unknown,Australia,Estuaries,Least Concern
+940,Saltwater Crocodile,Crocodylus porosus,Crocodylus,4.01,509.2,Subadult,Male,Papua New Guinea,Coastal Wetlands,Least Concern
+19,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,1.07,31.1,Juvenile,Unknown,Indonesia (Borneo),Estuarine Systems,Data Deficient
+21,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.52,89.6,Subadult,Unknown,Malaysia (Borneo),Estuarine Systems,Data Deficient
+58,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.05,70.8,Juvenile,Unknown,Malaysia (Borneo),Estuarine Systems,Data Deficient
+66,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.56,106.5,Adult,Male,Malaysia (Borneo),Estuarine Systems,Data Deficient
+76,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.54,103.3,Adult,Male,Malaysia (Borneo),Estuarine Systems,Data Deficient
+98,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.4,91.7,Subadult,Male,Indonesia (Borneo),Estuarine Systems,Data Deficient
+146,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.68,273.7,Adult,Female,Indonesia (Borneo),Rivers,Data Deficient
+155,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.27,177.7,Subadult,Female,Indonesia (Borneo),Rivers,Data Deficient
+165,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.1,146.8,Adult,Unknown,Malaysia (Borneo),Estuarine Systems,Data Deficient
+188,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,0.87,36.9,Juvenile,Male,Malaysia (Borneo),Rivers,Data Deficient
+193,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,0.76,29.5,Juvenile,Female,Malaysia (Borneo),Estuarine Systems,Data Deficient
+196,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.54,103.5,Subadult,Female,Malaysia (Borneo),Estuarine Systems,Data Deficient
+212,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.09,169.1,Subadult,Male,Indonesia (Borneo),Rivers,Data Deficient
+237,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.94,139.7,Adult,Unknown,Indonesia (Borneo),Rivers,Data Deficient
+239,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.79,133.3,Adult,Female,Malaysia (Borneo),Estuarine Systems,Data Deficient
+259,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.06,162.8,Subadult,Unknown,Malaysia (Borneo),Estuarine Systems,Data Deficient
+319,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.81,138.5,Adult,Female,Indonesia (Borneo),Estuarine Systems,Data Deficient
+328,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.0,130.3,Adult,Female,Malaysia (Borneo),Estuarine Systems,Data Deficient
+330,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.23,83.7,Adult,Male,Indonesia (Borneo),Estuarine Systems,Data Deficient
+336,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,0.87,30.9,Juvenile,Male,Malaysia (Borneo),Estuarine Systems,Data Deficient
+397,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,1.66,51.4,Juvenile,Unknown,Malaysia (Borneo),Rivers,Data Deficient
+413,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.99,134.5,Adult,Male,Malaysia (Borneo),Rivers,Data Deficient
+418,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.44,197.1,Adult,Unknown,Malaysia (Borneo),Rivers,Data Deficient
+450,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.66,96.8,Adult,Male,Indonesia (Borneo),Estuarine Systems,Data Deficient
+451,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,1.95,70.7,Juvenile,Female,Indonesia (Borneo),Rivers,Data Deficient
+464,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.31,88.6,Juvenile,Female,Malaysia (Borneo),Estuarine Systems,Data Deficient
+477,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.52,191.7,Adult,Unknown,Malaysia (Borneo),Rivers,Data Deficient
+488,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,0.93,36.6,Juvenile,Unknown,Indonesia (Borneo),Rivers,Data Deficient
+496,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.52,106.0,Adult,Unknown,Malaysia (Borneo),Estuarine Systems,Data Deficient
+541,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.78,127.4,Subadult,Unknown,Malaysia (Borneo),Rivers,Data Deficient
+543,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.25,77.0,Juvenile,Unknown,Malaysia (Borneo),Rivers,Data Deficient
+551,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.44,200.8,Adult,Unknown,Indonesia (Borneo),Rivers,Data Deficient
+559,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.52,100.7,Subadult,Female,Malaysia (Borneo),Estuarine Systems,Data Deficient
+571,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.2,67.4,Adult,Female,Malaysia (Borneo),Estuarine Systems,Data Deficient
+603,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.6,101.0,Adult,Unknown,Indonesia (Borneo),Rivers,Data Deficient
+609,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,1.67,49.8,Juvenile,Male,Indonesia (Borneo),Estuarine Systems,Data Deficient
+611,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.94,122.6,Adult,Unknown,Malaysia (Borneo),Estuarine Systems,Data Deficient
+632,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.83,125.6,Adult,Unknown,Indonesia (Borneo),Rivers,Data Deficient
+635,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,0.91,29.3,Juvenile,Male,Indonesia (Borneo),Estuarine Systems,Data Deficient
+637,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.68,118.3,Subadult,Female,Malaysia (Borneo),Rivers,Data Deficient
+666,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.25,174.0,Adult,Male,Indonesia (Borneo),Estuarine Systems,Data Deficient
+674,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.39,94.9,Subadult,Male,Malaysia (Borneo),Estuarine Systems,Data Deficient
+691,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,0.53,34.2,Hatchling,Unknown,Malaysia (Borneo),Estuarine Systems,Data Deficient
+702,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,1.92,62.6,Juvenile,Unknown,Indonesia (Borneo),Rivers,Data Deficient
+705,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.67,125.1,Adult,Male,Malaysia (Borneo),Rivers,Data Deficient
+713,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.79,259.1,Adult,Male,Indonesia (Borneo),Rivers,Data Deficient
+735,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.11,180.2,Subadult,Unknown,Malaysia (Borneo),Rivers,Data Deficient
+739,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.29,200.2,Subadult,Male,Indonesia (Borneo),Rivers,Data Deficient
+744,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.17,164.0,Adult,Female,Indonesia (Borneo),Estuarine Systems,Data Deficient
+758,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.26,78.7,Subadult,Female,Malaysia (Borneo),Rivers,Data Deficient
+780,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,1.52,43.4,Juvenile,Male,Malaysia (Borneo),Estuarine Systems,Data Deficient
+790,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,1.55,40.9,Juvenile,Unknown,Indonesia (Borneo),Rivers,Data Deficient
+794,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.25,69.6,Subadult,Unknown,Malaysia (Borneo),Estuarine Systems,Data Deficient
+816,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.98,152.6,Adult,Unknown,Malaysia (Borneo),Estuarine Systems,Data Deficient
+820,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.23,185.8,Adult,Unknown,Indonesia (Borneo),Rivers,Data Deficient
+826,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.48,220.9,Adult,Male,Indonesia (Borneo),Rivers,Data Deficient
+832,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.65,118.4,Adult,Female,Malaysia (Borneo),Estuarine Systems,Data Deficient
+841,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.38,100.9,Adult,Male,Indonesia (Borneo),Estuarine Systems,Data Deficient
+860,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.16,155.2,Adult,Unknown,Indonesia (Borneo),Estuarine Systems,Data Deficient
+897,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.6,263.2,Adult,Unknown,Indonesia (Borneo),Estuarine Systems,Data Deficient
+901,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.02,70.2,Juvenile,Unknown,Indonesia (Borneo),Estuarine Systems,Data Deficient
+923,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.59,108.0,Subadult,Unknown,Malaysia (Borneo),Rivers,Data Deficient
+930,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.46,96.9,Adult,Male,Malaysia (Borneo),Rivers,Data Deficient
+956,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.18,81.8,Adult,Unknown,Malaysia (Borneo),Estuarine Systems,Data Deficient
+968,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.02,133.1,Adult,Unknown,Indonesia (Borneo),Rivers,Data Deficient
+972,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,2.37,76.0,Adult,Unknown,Malaysia (Borneo),Rivers,Data Deficient
+987,Borneo Crocodile (disputed),Crocodylus raninus,Crocodylus,3.91,272.3,Adult,Male,Malaysia (Borneo),Estuarine Systems,Data Deficient
+24,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.44,107.9,Subadult,Male,Cuba,Swamps,Critically Endangered
+26,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,0.34,42.4,Hatchling,Unknown,Cuba,Swamps,Critically Endangered
+33,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.42,85.6,Adult,Female,Cuba,Swamps,Critically Endangered
+68,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.23,81.8,Adult,Female,Cuba,Swamps,Critically Endangered
+75,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.63,107.9,Adult,Unknown,Cuba,Swamps,Critically Endangered
+99,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.71,125.3,Adult,Male,Cuba,Swamps,Critically Endangered
+105,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.93,147.4,Adult,Unknown,Cuba,Swamps,Critically Endangered
+124,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.26,86.1,Adult,Male,Cuba,Swamps,Critically Endangered
+132,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.07,64.8,Subadult,Female,Cuba,Freshwater Wetlands,Critically Endangered
+178,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.75,114.5,Subadult,Male,Cuba,Freshwater Wetlands,Critically Endangered
+185,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.01,64.3,Juvenile,Female,Cuba,Freshwater Wetlands,Critically Endangered
+191,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.74,133.6,Adult,Male,Cuba,Swamps,Critically Endangered
+192,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.13,75.2,Subadult,Unknown,Cuba,Swamps,Critically Endangered
+209,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.96,120.7,Subadult,Unknown,Cuba,Swamps,Critically Endangered
+247,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.07,84.4,Adult,Male,Cuba,Swamps,Critically Endangered
+263,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,1.56,47.1,Juvenile,Female,Cuba,Freshwater Wetlands,Critically Endangered
+303,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.61,119.8,Adult,Unknown,Cuba,Swamps,Critically Endangered
+313,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,1.51,59.1,Juvenile,Unknown,Cuba,Swamps,Critically Endangered
+337,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,1.94,71.6,Juvenile,Unknown,Cuba,Swamps,Critically Endangered
+355,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.92,139.4,Adult,Unknown,Cuba,Swamps,Critically Endangered
+389,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,3.27,191.8,Adult,Female,Cuba,Swamps,Critically Endangered
+394,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,0.79,48.4,Juvenile,Male,Cuba,Freshwater Wetlands,Critically Endangered
+407,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.92,146.9,Subadult,Unknown,Cuba,Freshwater Wetlands,Critically Endangered
+420,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.11,77.1,Subadult,Unknown,Cuba,Swamps,Critically Endangered
+443,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.91,114.2,Adult,Female,Cuba,Swamps,Critically Endangered
+458,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,1.94,65.4,Juvenile,Male,Cuba,Swamps,Critically Endangered
+463,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.63,103.0,Adult,Unknown,Cuba,Swamps,Critically Endangered
+472,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,3.01,141.0,Adult,Male,Cuba,Swamps,Critically Endangered
+478,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.88,125.2,Subadult,Female,Cuba,Freshwater Wetlands,Critically Endangered
+481,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.34,94.9,Adult,Unknown,Cuba,Swamps,Critically Endangered
+519,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.63,97.3,Subadult,Unknown,Cuba,Swamps,Critically Endangered
+526,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,1.95,69.2,Juvenile,Female,Cuba,Swamps,Critically Endangered
+530,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.89,150.2,Adult,Male,Cuba,Freshwater Wetlands,Critically Endangered
+539,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.41,93.5,Subadult,Male,Cuba,Freshwater Wetlands,Critically Endangered
+545,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.17,81.4,Subadult,Male,Cuba,Swamps,Critically Endangered
+549,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.73,108.8,Subadult,Female,Cuba,Freshwater Wetlands,Critically Endangered
+558,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,3.1,156.3,Adult,Female,Cuba,Freshwater Wetlands,Critically Endangered
+560,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.7,115.8,Adult,Unknown,Cuba,Swamps,Critically Endangered
+563,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.76,126.3,Subadult,Female,Cuba,Swamps,Critically Endangered
+593,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,0.46,36.7,Hatchling,Unknown,Cuba,Swamps,Critically Endangered
+627,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.82,117.4,Adult,Female,Cuba,Freshwater Wetlands,Critically Endangered
+633,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,1.35,44.0,Juvenile,Unknown,Cuba,Swamps,Critically Endangered
+645,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,3.38,203.8,Adult,Female,Cuba,Freshwater Wetlands,Critically Endangered
+651,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.42,107.5,Subadult,Male,Cuba,Swamps,Critically Endangered
+678,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.95,147.2,Subadult,Female,Cuba,Swamps,Critically Endangered
+715,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,1.53,47.6,Juvenile,Male,Cuba,Freshwater Wetlands,Critically Endangered
+716,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.4,84.3,Subadult,Female,Cuba,Swamps,Critically Endangered
+753,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.96,139.6,Adult,Unknown,Cuba,Swamps,Critically Endangered
+756,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,1.22,41.4,Juvenile,Female,Cuba,Freshwater Wetlands,Critically Endangered
+773,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.12,83.9,Subadult,Female,Cuba,Swamps,Critically Endangered
+801,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,0.56,38.0,Hatchling,Unknown,Cuba,Freshwater Wetlands,Critically Endangered
+819,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.12,79.5,Adult,Unknown,Cuba,Swamps,Critically Endangered
+848,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.16,76.4,Adult,Female,Cuba,Swamps,Critically Endangered
+867,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.48,108.1,Adult,Male,Cuba,Freshwater Wetlands,Critically Endangered
+873,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.69,102.7,Subadult,Unknown,Cuba,Freshwater Wetlands,Critically Endangered
+875,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.56,97.8,Adult,Female,Cuba,Freshwater Wetlands,Critically Endangered
+931,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,3.14,173.0,Adult,Unknown,Cuba,Swamps,Critically Endangered
+951,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,1.79,65.6,Juvenile,Female,Cuba,Freshwater Wetlands,Critically Endangered
+954,Cuban Crocodile,Crocodylus rhombifer,Crocodylus,2.28,83.1,Adult,Male,Cuba,Swamps,Critically Endangered
+7,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.85,157.7,Subadult,Male,Thailand,Slow Rivers,Critically Endangered
+13,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.63,121.3,Subadult,Unknown,Cambodia,Slow Rivers,Critically Endangered
+29,Siamese Crocodile,Crocodylus siamensis,Crocodylus,3.22,196.6,Adult,Unknown,Cambodia,Slow Rivers,Critically Endangered
+31,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.04,80.2,Adult,Unknown,Thailand,Swamps,Critically Endangered
+43,Siamese Crocodile,Crocodylus siamensis,Crocodylus,0.29,33.2,Hatchling,Unknown,Thailand,Slow Rivers,Critically Endangered
+53,Siamese Crocodile,Crocodylus siamensis,Crocodylus,0.96,31.8,Juvenile,Male,Thailand,Swamps,Critically Endangered
+62,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.56,136.2,Adult,Unknown,Vietnam,Slow Rivers,Critically Endangered
+84,Siamese Crocodile,Crocodylus siamensis,Crocodylus,1.25,36.3,Juvenile,Male,Vietnam,Swamps,Critically Endangered
+130,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.88,154.9,Adult,Female,Laos,Swamps,Critically Endangered
+150,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.45,121.0,Subadult,Unknown,Laos,Oxbow Lakes,Critically Endangered
+162,Siamese Crocodile,Crocodylus siamensis,Crocodylus,0.94,39.1,Juvenile,Female,Cambodia,Slow Rivers,Critically Endangered
+199,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.89,160.1,Adult,Unknown,Vietnam,Oxbow Lakes,Critically Endangered
+202,Siamese Crocodile,Crocodylus siamensis,Crocodylus,1.55,54.2,Juvenile,Male,Cambodia,Oxbow Lakes,Critically Endangered
+248,Siamese Crocodile,Crocodylus siamensis,Crocodylus,1.52,52.5,Juvenile,Male,Laos,Oxbow Lakes,Critically Endangered
+269,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.85,151.8,Adult,Female,Cambodia,Swamps,Critically Endangered
+285,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.76,125.2,Adult,Unknown,Laos,Oxbow Lakes,Critically Endangered
+304,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.18,76.2,Adult,Male,Cambodia,Slow Rivers,Critically Endangered
+306,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.92,150.7,Adult,Male,Cambodia,Swamps,Critically Endangered
+320,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.97,181.1,Adult,Male,Cambodia,Swamps,Critically Endangered
+338,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.81,127.1,Adult,Female,Cambodia,Swamps,Critically Endangered
+339,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.13,74.7,Adult,Unknown,Thailand,Swamps,Critically Endangered
+349,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.92,166.7,Adult,Female,Vietnam,Slow Rivers,Critically Endangered
+378,Siamese Crocodile,Crocodylus siamensis,Crocodylus,0.43,28.5,Hatchling,Male,Vietnam,Oxbow Lakes,Critically Endangered
+431,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.51,121.9,Adult,Male,Laos,Oxbow Lakes,Critically Endangered
+449,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.09,89.4,Subadult,Male,Laos,Swamps,Critically Endangered
+502,Siamese Crocodile,Crocodylus siamensis,Crocodylus,1.87,57.7,Juvenile,Female,Cambodia,Oxbow Lakes,Critically Endangered
+525,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.97,179.8,Subadult,Male,Vietnam,Slow Rivers,Critically Endangered
+550,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.66,115.8,Adult,Female,Thailand,Slow Rivers,Critically Endangered
+576,Siamese Crocodile,Crocodylus siamensis,Crocodylus,3.13,196.2,Adult,Male,Vietnam,Swamps,Critically Endangered
+577,Siamese Crocodile,Crocodylus siamensis,Crocodylus,0.91,36.9,Juvenile,Unknown,Thailand,Slow Rivers,Critically Endangered
+653,Siamese Crocodile,Crocodylus siamensis,Crocodylus,1.49,55.6,Juvenile,Female,Cambodia,Oxbow Lakes,Critically Endangered
+665,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.06,74.5,Adult,Male,Laos,Oxbow Lakes,Critically Endangered
+672,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.29,88.8,Adult,Unknown,Cambodia,Swamps,Critically Endangered
+683,Siamese Crocodile,Crocodylus siamensis,Crocodylus,0.43,33.8,Hatchling,Female,Laos,Oxbow Lakes,Critically Endangered
+686,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.59,107.9,Subadult,Female,Vietnam,Swamps,Critically Endangered
+760,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.34,90.2,Subadult,Unknown,Vietnam,Slow Rivers,Critically Endangered
+771,Siamese Crocodile,Crocodylus siamensis,Crocodylus,0.6,29.0,Hatchling,Unknown,Vietnam,Swamps,Critically Endangered
+791,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.76,129.6,Adult,Unknown,Laos,Swamps,Critically Endangered
+802,Siamese Crocodile,Crocodylus siamensis,Crocodylus,1.98,69.6,Adult,Unknown,Laos,Slow Rivers,Critically Endangered
+845,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.52,108.4,Adult,Female,Vietnam,Oxbow Lakes,Critically Endangered
+866,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.86,145.6,Adult,Female,Thailand,Slow Rivers,Critically Endangered
+880,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.98,178.7,Adult,Female,Thailand,Swamps,Critically Endangered
+888,Siamese Crocodile,Crocodylus siamensis,Crocodylus,0.27,32.7,Hatchling,Unknown,Laos,Swamps,Critically Endangered
+953,Siamese Crocodile,Crocodylus siamensis,Crocodylus,2.69,131.4,Adult,Female,Cambodia,Oxbow Lakes,Critically Endangered
+989,Siamese Crocodile,Crocodylus siamensis,Crocodylus,3.04,163.6,Adult,Female,Thailand,Slow Rivers,Critically Endangered
+9,West African Crocodile,Crocodylus suchus,Crocodylus,3.05,201.2,Adult,Male,Sudan,Lakes,Least Concern
+40,West African Crocodile,Crocodylus suchus,Crocodylus,2.72,150.3,Subadult,Female,Senegal,Oases,Least Concern
+78,West African Crocodile,Crocodylus suchus,Crocodylus,2.13,86.4,Adult,Unknown,Mali,Oases,Least Concern
+82,West African Crocodile,Crocodylus suchus,Crocodylus,3.02,180.7,Adult,Male,Niger,Rivers,Least Concern
+96,West African Crocodile,Crocodylus suchus,Crocodylus,2.7,131.1,Subadult,Female,Mali,Lakes,Least Concern
+97,West African Crocodile,Crocodylus suchus,Crocodylus,3.08,188.3,Adult,Female,Chad,Rivers,Least Concern
+104,West African Crocodile,Crocodylus suchus,Crocodylus,2.54,104.3,Subadult,Female,Senegal,Oases,Least Concern
+107,West African Crocodile,Crocodylus suchus,Crocodylus,2.28,104.8,Adult,Male,Niger,Oases,Least Concern
+118,West African Crocodile,Crocodylus suchus,Crocodylus,2.9,158.4,Subadult,Male,Chad,Rivers,Least Concern
+131,West African Crocodile,Crocodylus suchus,Crocodylus,1.55,47.9,Juvenile,Unknown,Senegal,Lakes,Least Concern
+135,West African Crocodile,Crocodylus suchus,Crocodylus,2.07,75.5,Juvenile,Female,Niger,Rivers,Least Concern
+143,West African Crocodile,Crocodylus suchus,Crocodylus,2.52,107.0,Subadult,Male,Senegal,Oases,Least Concern
+157,West African Crocodile,Crocodylus suchus,Crocodylus,3.04,171.9,Adult,Male,Mauritania,Rivers,Least Concern
+223,West African Crocodile,Crocodylus suchus,Crocodylus,2.4,111.4,Subadult,Male,Chad,Rivers,Least Concern
+234,West African Crocodile,Crocodylus suchus,Crocodylus,2.98,190.6,Adult,Female,Sudan,Rivers,Least Concern
+242,West African Crocodile,Crocodylus suchus,Crocodylus,1.99,78.3,Subadult,Unknown,Mali,Oases,Least Concern
+299,West African Crocodile,Crocodylus suchus,Crocodylus,2.78,153.8,Adult,Unknown,Mali,Lakes,Least Concern
+335,West African Crocodile,Crocodylus suchus,Crocodylus,1.36,45.7,Juvenile,Female,Chad,Lakes,Least Concern
+343,West African Crocodile,Crocodylus suchus,Crocodylus,2.28,97.8,Adult,Female,Mauritania,Oases,Least Concern
+391,West African Crocodile,Crocodylus suchus,Crocodylus,0.9,37.1,Juvenile,Male,Niger,Lakes,Least Concern
+417,West African Crocodile,Crocodylus suchus,Crocodylus,0.48,35.1,Hatchling,Male,Niger,Rivers,Least Concern
+436,West African Crocodile,Crocodylus suchus,Crocodylus,2.81,134.0,Adult,Female,Niger,Rivers,Least Concern
+495,West African Crocodile,Crocodylus suchus,Crocodylus,2.76,126.9,Adult,Female,Senegal,Rivers,Least Concern
+512,West African Crocodile,Crocodylus suchus,Crocodylus,2.7,118.5,Adult,Female,Mali,Lakes,Least Concern
+516,West African Crocodile,Crocodylus suchus,Crocodylus,2.41,96.7,Adult,Unknown,Mauritania,Oases,Least Concern
+531,West African Crocodile,Crocodylus suchus,Crocodylus,2.77,133.6,Subadult,Unknown,Mauritania,Lakes,Least Concern
+544,West African Crocodile,Crocodylus suchus,Crocodylus,2.61,136.8,Adult,Female,Senegal,Rivers,Least Concern
+584,West African Crocodile,Crocodylus suchus,Crocodylus,2.74,150.1,Adult,Female,Chad,Lakes,Least Concern
+595,West African Crocodile,Crocodylus suchus,Crocodylus,2.32,102.4,Subadult,Unknown,Chad,Lakes,Least Concern
+626,West African Crocodile,Crocodylus suchus,Crocodylus,2.04,75.6,Juvenile,Female,Mali,Lakes,Least Concern
+630,West African Crocodile,Crocodylus suchus,Crocodylus,2.4,109.3,Subadult,Female,Sudan,Oases,Least Concern
+644,West African Crocodile,Crocodylus suchus,Crocodylus,1.18,40.5,Juvenile,Male,Mali,Oases,Least Concern
+649,West African Crocodile,Crocodylus suchus,Crocodylus,2.42,111.8,Adult,Male,Niger,Oases,Least Concern
+652,West African Crocodile,Crocodylus suchus,Crocodylus,1.74,63.9,Juvenile,Unknown,Mali,Lakes,Least Concern
+654,West African Crocodile,Crocodylus suchus,Crocodylus,1.97,77.9,Juvenile,Male,Senegal,Rivers,Least Concern
+660,West African Crocodile,Crocodylus suchus,Crocodylus,1.58,48.3,Juvenile,Unknown,Senegal,Rivers,Least Concern
+671,West African Crocodile,Crocodylus suchus,Crocodylus,2.56,130.6,Adult,Male,Niger,Lakes,Least Concern
+701,West African Crocodile,Crocodylus suchus,Crocodylus,2.64,131.0,Adult,Male,Senegal,Rivers,Least Concern
+722,West African Crocodile,Crocodylus suchus,Crocodylus,0.73,34.8,Juvenile,Female,Niger,Oases,Least Concern
+734,West African Crocodile,Crocodylus suchus,Crocodylus,3.01,179.1,Adult,Male,Niger,Oases,Least Concern
+781,West African Crocodile,Crocodylus suchus,Crocodylus,2.05,74.1,Subadult,Unknown,Mali,Oases,Least Concern
+785,West African Crocodile,Crocodylus suchus,Crocodylus,2.17,91.9,Subadult,Unknown,Mauritania,Rivers,Least Concern
+786,West African Crocodile,Crocodylus suchus,Crocodylus,3.35,197.9,Adult,Male,Niger,Oases,Least Concern
+879,West African Crocodile,Crocodylus suchus,Crocodylus,2.69,132.0,Adult,Female,Mali,Lakes,Least Concern
+881,West African Crocodile,Crocodylus suchus,Crocodylus,2.05,77.0,Adult,Female,Mali,Lakes,Least Concern
+886,West African Crocodile,Crocodylus suchus,Crocodylus,2.26,102.4,Adult,Female,Mauritania,Oases,Least Concern
+926,West African Crocodile,Crocodylus suchus,Crocodylus,2.99,192.7,Adult,Female,Sudan,Lakes,Least Concern
+933,West African Crocodile,Crocodylus suchus,Crocodylus,2.6,111.8,Adult,Unknown,Mali,Rivers,Least Concern
+963,West African Crocodile,Crocodylus suchus,Crocodylus,2.9,146.4,Adult,Female,Chad,Lakes,Least Concern
+980,West African Crocodile,Crocodylus suchus,Crocodylus,2.76,121.2,Subadult,Male,Chad,Oases,Least Concern
+988,West African Crocodile,Crocodylus suchus,Crocodylus,0.92,37.6,Juvenile,Male,Sudan,Lakes,Least Concern
+996,West African Crocodile,Crocodylus suchus,Crocodylus,2.55,112.3,Adult,Female,Mauritania,Lakes,Least Concern
+38,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.96,182.7,Adult,Unknown,Liberia,Swamps,Critically Endangered
+49,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.43,96.9,Adult,Male,Sierra Leone,Swamps,Critically Endangered
+52,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.96,149.9,Adult,Unknown,Sierra Leone,Shaded Forest Rivers,Critically Endangered
+56,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,1.77,71.7,Juvenile,Female,Guinea,Shaded Forest Rivers,Critically Endangered
+59,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.26,91.6,Subadult,Male,Nigeria,Shaded Forest Rivers,Critically Endangered
+73,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.9,165.4,Adult,Female,Nigeria,Swamps,Critically Endangered
+103,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.58,109.7,Adult,Female,Liberia,Shaded Forest Rivers,Critically Endangered
+108,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,3.07,199.3,Adult,Male,Nigeria,Swamps,Critically Endangered
+127,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.05,82.8,Juvenile,Male,Guinea,Shaded Forest Rivers,Critically Endangered
+148,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,3.41,220.3,Adult,Male,Ghana,Swamps,Critically Endangered
+161,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.64,149.5,Adult,Male,Nigeria,Shaded Forest Rivers,Critically Endangered
+166,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.75,143.8,Adult,Unknown,Guinea,Shaded Forest Rivers,Critically Endangered
+217,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.23,105.1,Subadult,Unknown,Sierra Leone,Swamps,Critically Endangered
+236,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.07,93.2,Adult,Male,Côte d'Ivoire,Swamps,Critically Endangered
+252,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.89,169.2,Subadult,Male,Côte d'Ivoire,Swamps,Critically Endangered
+272,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.08,82.8,Adult,Female,Guinea,Shaded Forest Rivers,Critically Endangered
+295,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,3.15,187.8,Adult,Male,Liberia,Swamps,Critically Endangered
+317,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.94,142.5,Adult,Unknown,Côte d'Ivoire,Shaded Forest Rivers,Critically Endangered
+342,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,3.32,230.9,Adult,Unknown,Guinea,Shaded Forest Rivers,Critically Endangered
+344,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.95,170.0,Subadult,Female,Côte d'Ivoire,Shaded Forest Rivers,Critically Endangered
+361,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.87,168.0,Adult,Female,Guinea,Shaded Forest Rivers,Critically Endangered
+363,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,3.28,217.2,Adult,Unknown,Ghana,Swamps,Critically Endangered
+365,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.28,114.0,Adult,Unknown,Ghana,Shaded Forest Rivers,Critically Endangered
+382,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,0.88,37.6,Juvenile,Unknown,Liberia,Shaded Forest Rivers,Critically Endangered
+405,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,3.07,158.5,Adult,Male,Côte d'Ivoire,Shaded Forest Rivers,Critically Endangered
+416,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.92,161.0,Subadult,Female,Ghana,Shaded Forest Rivers,Critically Endangered
+434,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.93,178.8,Adult,Unknown,Liberia,Swamps,Critically Endangered
+524,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,0.26,44.6,Hatchling,Female,Liberia,Swamps,Critically Endangered
+534,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.71,124.4,Adult,Male,Côte d'Ivoire,Swamps,Critically Endangered
+554,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.78,154.3,Subadult,Male,Liberia,Shaded Forest Rivers,Critically Endangered
+579,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.81,146.9,Subadult,Male,Ghana,Swamps,Critically Endangered
+638,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,1.33,55.6,Juvenile,Female,Côte d'Ivoire,Shaded Forest Rivers,Critically Endangered
+658,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.53,140.1,Adult,Unknown,Nigeria,Shaded Forest Rivers,Critically Endangered
+685,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.58,115.4,Adult,Male,Sierra Leone,Swamps,Critically Endangered
+726,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.44,121.4,Adult,Male,Côte d'Ivoire,Shaded Forest Rivers,Critically Endangered
+731,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.43,107.8,Adult,Female,Nigeria,Swamps,Critically Endangered
+757,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,0.53,40.3,Hatchling,Female,Ghana,Shaded Forest Rivers,Critically Endangered
+769,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,1.99,75.9,Subadult,Female,Sierra Leone,Swamps,Critically Endangered
+815,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,3.07,183.9,Adult,Unknown,Ghana,Shaded Forest Rivers,Critically Endangered
+834,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,3.22,187.6,Adult,Male,Côte d'Ivoire,Swamps,Critically Endangered
+864,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.48,122.3,Adult,Male,Nigeria,Shaded Forest Rivers,Critically Endangered
+870,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.62,120.6,Adult,Unknown,Côte d'Ivoire,Swamps,Critically Endangered
+896,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,0.61,44.6,Hatchling,Unknown,Nigeria,Shaded Forest Rivers,Critically Endangered
+906,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,1.89,77.0,Juvenile,Male,Guinea,Swamps,Critically Endangered
+920,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.76,137.8,Subadult,Unknown,Sierra Leone,Shaded Forest Rivers,Critically Endangered
+921,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.53,120.8,Adult,Male,Nigeria,Swamps,Critically Endangered
+925,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.79,138.1,Adult,Male,Guinea,Swamps,Critically Endangered
+945,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,3.21,219.8,Adult,Female,Sierra Leone,Swamps,Critically Endangered
+947,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,3.06,185.2,Adult,Unknown,Côte d'Ivoire,Shaded Forest Rivers,Critically Endangered
+961,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,1.48,63.6,Juvenile,Unknown,Nigeria,Swamps,Critically Endangered
+966,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,1.93,76.0,Juvenile,Male,Guinea,Swamps,Critically Endangered
+970,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.84,138.2,Subadult,Unknown,Guinea,Swamps,Critically Endangered
+993,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.26,88.5,Adult,Male,Nigeria,Shaded Forest Rivers,Critically Endangered
+998,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.34,93.5,Adult,Male,Côte d'Ivoire,Swamps,Critically Endangered
+999,West African Slender-snouted Crocodile,Mecistops cataphractus,Mecistops,2.82,147.6,Adult,Male,Sierra Leone,Shaded Forest Rivers,Critically Endangered
+70,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,1.85,67.3,Subadult,Male,Cameroon,Swamps,Endangered
+72,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,1.2,38.0,Juvenile,Unknown,Congo Basin Countries,Swamps,Endangered
+79,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,1.69,63.7,Juvenile,Female,Gabon,Forest Rivers,Endangered
+86,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,0.79,34.2,Juvenile,Unknown,Congo Basin Countries,Swamps,Endangered
+141,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.5,120.6,Subadult,Unknown,Congo Basin Countries,Swamps,Endangered
+145,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.36,87.9,Adult,Unknown,Congo Basin Countries,Forest Rivers,Endangered
+180,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,1.12,41.7,Juvenile,Female,Cameroon,Forest Rivers,Endangered
+186,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,0.5,26.4,Hatchling,Female,Cameroon,Forest Rivers,Endangered
+213,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.61,134.2,Subadult,Male,Gabon,Swamps,Endangered
+218,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,0.33,32.6,Hatchling,Female,Congo Basin Countries,Swamps,Endangered
+228,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,1.79,66.7,Juvenile,Male,Gabon,Swamps,Endangered
+253,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.86,164.1,Adult,Female,Gabon,Forest Rivers,Endangered
+276,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.69,125.4,Adult,Unknown,Congo Basin Countries,Forest Rivers,Endangered
+293,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,3.06,180.7,Adult,Unknown,Congo Basin Countries,Forest Rivers,Endangered
+305,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.06,75.7,Subadult,Male,Cameroon,Forest Rivers,Endangered
+314,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,0.79,33.9,Juvenile,Male,Congo Basin Countries,Forest Rivers,Endangered
+329,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,0.72,33.5,Juvenile,Male,Congo Basin Countries,Forest Rivers,Endangered
+347,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.1,87.2,Adult,Male,Congo Basin Countries,Swamps,Endangered
+357,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.64,129.9,Adult,Female,Gabon,Swamps,Endangered
+367,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.08,88.4,Adult,Female,Congo Basin Countries,Swamps,Endangered
+374,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.22,95.0,Subadult,Male,Congo Basin Countries,Forest Rivers,Endangered
+384,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.72,155.3,Adult,Female,Congo Basin Countries,Forest Rivers,Endangered
+438,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,1.13,40.5,Juvenile,Female,Congo Basin Countries,Swamps,Endangered
+447,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.55,114.9,Adult,Unknown,Cameroon,Forest Rivers,Endangered
+452,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.2,79.3,Subadult,Female,Cameroon,Swamps,Endangered
+470,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,0.7,33.4,Juvenile,Unknown,Cameroon,Swamps,Endangered
+489,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.29,88.5,Subadult,Female,Cameroon,Swamps,Endangered
+492,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,1.98,81.8,Subadult,Male,Congo Basin Countries,Forest Rivers,Endangered
+493,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.74,124.0,Adult,Male,Cameroon,Swamps,Endangered
+500,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.67,133.4,Adult,Male,Congo Basin Countries,Forest Rivers,Endangered
+501,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.24,99.8,Subadult,Male,Congo Basin Countries,Forest Rivers,Endangered
+503,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.4,98.0,Subadult,Female,Gabon,Swamps,Endangered
+520,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.67,143.2,Adult,Male,Cameroon,Swamps,Endangered
+540,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.41,106.9,Adult,Male,Cameroon,Forest Rivers,Endangered
+569,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,0.47,34.5,Hatchling,Male,Congo Basin Countries,Forest Rivers,Endangered
+582,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.82,160.9,Adult,Unknown,Gabon,Forest Rivers,Endangered
+607,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,1.95,80.8,Subadult,Female,Gabon,Forest Rivers,Endangered
+640,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.68,134.5,Adult,Unknown,Cameroon,Swamps,Endangered
+680,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.51,103.1,Adult,Unknown,Congo Basin Countries,Forest Rivers,Endangered
+712,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,1.6,56.3,Juvenile,Male,Congo Basin Countries,Forest Rivers,Endangered
+778,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,3.0,190.5,Adult,Male,Cameroon,Swamps,Endangered
+831,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,1.87,73.6,Juvenile,Female,Gabon,Swamps,Endangered
+844,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.52,123.3,Adult,Male,Congo Basin Countries,Swamps,Endangered
+854,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.22,83.9,Subadult,Unknown,Congo Basin Countries,Forest Rivers,Endangered
+858,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.25,79.1,Adult,Male,Congo Basin Countries,Swamps,Endangered
+859,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.35,105.8,Subadult,Unknown,Cameroon,Forest Rivers,Endangered
+876,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,1.1,37.7,Juvenile,Male,Congo Basin Countries,Swamps,Endangered
+878,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.01,78.2,Adult,Female,Cameroon,Swamps,Endangered
+909,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.08,86.9,Adult,Unknown,Cameroon,Forest Rivers,Endangered
+915,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.27,88.4,Subadult,Unknown,Congo Basin Countries,Swamps,Endangered
+939,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,0.19,25.8,Hatchling,Female,Congo Basin Countries,Forest Rivers,Endangered
+946,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.51,111.5,Subadult,Male,Cameroon,Forest Rivers,Endangered
+950,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.69,125.3,Adult,Unknown,Cameroon,Forest Rivers,Endangered
+955,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,3.02,179.1,Adult,Female,Congo Basin Countries,Swamps,Endangered
+969,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,2.65,146.7,Adult,Male,Gabon,Forest Rivers,Endangered
+990,Central African Slender-snouted Crocodile,Mecistops leptorhynchus,Mecistops,0.35,26.5,Hatchling,Unknown,Cameroon,Forest Rivers,Endangered
+8,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,0.35,4.7,Juvenile,Unknown,Central African Republic,Forest Swamps,Data Deficient
+23,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.77,36.0,Adult,Male,Congo (DRC),Forest Swamps,Data Deficient
+67,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.25,19.3,Subadult,Female,Congo (DRC),Slow Streams,Data Deficient
+160,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,0.6,6.9,Juvenile,Female,Congo (DRC),Slow Streams,Data Deficient
+173,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.49,26.9,Adult,Female,Congo (DRC),Slow Streams,Data Deficient
+177,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.04,13.6,Subadult,Male,Congo (DRC),Slow Streams,Data Deficient
+207,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.51,22.3,Adult,Female,Congo (DRC),Slow Streams,Data Deficient
+211,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.51,23.7,Adult,Unknown,Central African Republic,Forest Swamps,Data Deficient
+227,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.4,22.8,Adult,Male,Congo (DRC),Slow Streams,Data Deficient
+243,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.46,23.3,Adult,Unknown,Central African Republic,Forest Swamps,Data Deficient
+246,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.42,25.1,Adult,Unknown,Central African Republic,Forest Swamps,Data Deficient
+280,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.51,23.7,Adult,Female,Congo (DRC),Forest Swamps,Data Deficient
+284,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.31,21.1,Subadult,Unknown,Central African Republic,Slow Streams,Data Deficient
+289,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.2,16.9,Adult,Unknown,Central African Republic,Forest Swamps,Data Deficient
+291,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.36,20.2,Adult,Male,Congo (DRC),Forest Swamps,Data Deficient
+294,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.11,14.6,Subadult,Unknown,Congo (DRC),Forest Swamps,Data Deficient
+301,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.35,23.0,Adult,Unknown,Congo (DRC),Forest Swamps,Data Deficient
+307,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.12,15.5,Adult,Unknown,Central African Republic,Forest Swamps,Data Deficient
+308,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.47,25.1,Subadult,Female,Central African Republic,Forest Swamps,Data Deficient
+352,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,0.9,9.0,Juvenile,Female,Congo (DRC),Forest Swamps,Data Deficient
+356,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.09,13.9,Subadult,Female,Congo (DRC),Slow Streams,Data Deficient
+369,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.28,19.0,Adult,Female,Congo (DRC),Forest Swamps,Data Deficient
+380,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,0.84,9.9,Juvenile,Male,Congo (DRC),Forest Swamps,Data Deficient
+401,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.73,36.9,Adult,Unknown,Congo (DRC),Forest Swamps,Data Deficient
+419,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.52,22.6,Adult,Female,Central African Republic,Forest Swamps,Data Deficient
+424,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.51,28.4,Subadult,Female,Congo (DRC),Slow Streams,Data Deficient
+445,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.06,11.2,Subadult,Female,Central African Republic,Forest Swamps,Data Deficient
+469,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.56,32.2,Adult,Male,Central African Republic,Slow Streams,Data Deficient
+475,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.45,23.7,Adult,Male,Congo (DRC),Forest Swamps,Data Deficient
+487,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.37,18.9,Subadult,Unknown,Congo (DRC),Slow Streams,Data Deficient
+535,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.13,12.3,Subadult,Unknown,Congo (DRC),Slow Streams,Data Deficient
+555,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.54,27.4,Adult,Male,Congo (DRC),Slow Streams,Data Deficient
+564,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,0.33,5.5,Juvenile,Unknown,Congo (DRC),Forest Swamps,Data Deficient
+565,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.35,20.1,Adult,Male,Congo (DRC),Forest Swamps,Data Deficient
+570,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.4,24.2,Adult,Male,Congo (DRC),Forest Swamps,Data Deficient
+614,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.42,25.3,Adult,Female,Congo (DRC),Forest Swamps,Data Deficient
+655,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.52,29.1,Adult,Unknown,Congo (DRC),Forest Swamps,Data Deficient
+677,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.38,22.7,Subadult,Female,Congo (DRC),Forest Swamps,Data Deficient
+792,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,0.17,4.7,Hatchling,Female,Congo (DRC),Forest Swamps,Data Deficient
+793,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.71,38.4,Adult,Unknown,Congo (DRC),Slow Streams,Data Deficient
+796,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.41,23.6,Adult,Male,Congo (DRC),Slow Streams,Data Deficient
+799,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.15,14.0,Subadult,Unknown,Congo (DRC),Slow Streams,Data Deficient
+800,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.06,11.5,Juvenile,Unknown,Congo (DRC),Forest Swamps,Data Deficient
+804,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.3,19.0,Subadult,Unknown,Congo (DRC),Slow Streams,Data Deficient
+818,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,0.14,4.4,Hatchling,Unknown,Central African Republic,Slow Streams,Data Deficient
+847,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.55,29.5,Adult,Female,Central African Republic,Slow Streams,Data Deficient
+941,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,1.28,20.5,Subadult,Unknown,Congo (DRC),Slow Streams,Data Deficient
+984,Congo Dwarf Crocodile,Osteolaemus osborni,Osteolaemus,0.6,6.8,Juvenile,Male,Central African Republic,Forest Swamps,Data Deficient
+11,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.22,15.8,Adult,Male,Liberia,Small Streams,Vulnerable
+15,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.32,19.2,Adult,Female,Côte d'Ivoire,Small Streams,Vulnerable
+37,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.48,21.9,Adult,Female,Côte d'Ivoire,Small Streams,Vulnerable
+63,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.18,12.5,Adult,Female,Cameroon,Small Streams,Vulnerable
+87,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.23,13.1,Adult,Unknown,Sierra Leone,Small Streams,Vulnerable
+121,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.86,8.1,Juvenile,Female,Guinea,Forest Swamps,Vulnerable
+123,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.37,18.1,Adult,Female,Côte d'Ivoire,Forest Swamps,Vulnerable
+136,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.57,27.1,Adult,Male,Ghana,Forest Swamps,Vulnerable
+149,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.47,21.3,Adult,Male,Côte d'Ivoire,Forest Swamps,Vulnerable
+152,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.53,20.3,Adult,Unknown,Ghana,Forest Swamps,Vulnerable
+164,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.96,10.8,Subadult,Unknown,Guinea,Small Streams,Vulnerable
+169,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.13,12.3,Subadult,Unknown,Cameroon,Forest Swamps,Vulnerable
+187,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.03,11.3,Subadult,Female,Guinea,Forest Swamps,Vulnerable
+194,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.0,10.0,Adult,Male,Cameroon,Small Streams,Vulnerable
+197,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.99,11.7,Adult,Male,Sierra Leone,Forest Swamps,Vulnerable
+215,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.93,8.4,Adult,Male,Cameroon,Small Streams,Vulnerable
+251,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.24,13.5,Adult,Male,Guinea,Forest Swamps,Vulnerable
+256,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.03,10.4,Adult,Unknown,Liberia,Forest Swamps,Vulnerable
+266,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.05,11.9,Subadult,Male,Cameroon,Forest Swamps,Vulnerable
+277,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.28,15.4,Subadult,Unknown,Ghana,Forest Swamps,Vulnerable
+288,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.18,15.7,Adult,Male,Guinea,Small Streams,Vulnerable
+296,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.64,25.0,Adult,Male,Ghana,Forest Swamps,Vulnerable
+360,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.15,5.4,Hatchling,Male,Sierra Leone,Small Streams,Vulnerable
+375,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.78,6.5,Juvenile,Female,Liberia,Small Streams,Vulnerable
+406,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.46,5.2,Juvenile,Unknown,Côte d'Ivoire,Forest Swamps,Vulnerable
+426,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.31,17.3,Subadult,Unknown,Sierra Leone,Small Streams,Vulnerable
+465,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.33,19.7,Adult,Male,Liberia,Small Streams,Vulnerable
+509,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.61,25.0,Adult,Female,Cameroon,Forest Swamps,Vulnerable
+542,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.97,10.4,Adult,Male,Ghana,Small Streams,Vulnerable
+547,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.6,28.3,Adult,Male,Ghana,Forest Swamps,Vulnerable
+573,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.01,10.0,Juvenile,Female,Liberia,Forest Swamps,Vulnerable
+586,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.09,11.0,Adult,Male,Liberia,Small Streams,Vulnerable
+606,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.97,11.3,Subadult,Male,Sierra Leone,Small Streams,Vulnerable
+647,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.29,15.6,Adult,Female,Cameroon,Forest Swamps,Vulnerable
+661,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.23,4.4,Hatchling,Male,Guinea,Small Streams,Vulnerable
+663,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.24,15.1,Adult,Female,Liberia,Forest Swamps,Vulnerable
+687,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.29,14.1,Adult,Male,Côte d'Ivoire,Small Streams,Vulnerable
+688,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.43,5.0,Juvenile,Unknown,Ghana,Small Streams,Vulnerable
+689,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.69,6.4,Juvenile,Unknown,Liberia,Forest Swamps,Vulnerable
+741,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.45,19.0,Adult,Male,Liberia,Small Streams,Vulnerable
+764,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.31,17.0,Adult,Female,Côte d'Ivoire,Forest Swamps,Vulnerable
+774,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.32,14.6,Adult,Female,Sierra Leone,Small Streams,Vulnerable
+775,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.04,9.5,Adult,Male,Cameroon,Forest Swamps,Vulnerable
+776,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.98,9.4,Subadult,Female,Liberia,Forest Swamps,Vulnerable
+777,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.06,10.4,Adult,Male,Cameroon,Small Streams,Vulnerable
+779,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.49,25.2,Adult,Unknown,Ghana,Small Streams,Vulnerable
+788,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.26,16.9,Adult,Female,Côte d'Ivoire,Forest Swamps,Vulnerable
+814,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.34,20.1,Subadult,Male,Liberia,Forest Swamps,Vulnerable
+828,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.14,11.1,Adult,Male,Sierra Leone,Small Streams,Vulnerable
+852,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.35,19.8,Subadult,Unknown,Côte d'Ivoire,Forest Swamps,Vulnerable
+907,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.01,11.6,Subadult,Female,Liberia,Small Streams,Vulnerable
+911,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.8,7.7,Juvenile,Male,Liberia,Small Streams,Vulnerable
+934,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.3,17.0,Adult,Female,Sierra Leone,Forest Swamps,Vulnerable
+935,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.46,18.0,Adult,Female,Guinea,Small Streams,Vulnerable
+943,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.01,11.3,Subadult,Male,Côte d'Ivoire,Forest Swamps,Vulnerable
+981,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,1.01,11.3,Adult,Female,Sierra Leone,Small Streams,Vulnerable
+994,West African Dwarf Crocodile,Osteolaemus tetraspis,Osteolaemus,0.39,4.9,Juvenile,Female,Ghana,Forest Swamps,Vulnerable
